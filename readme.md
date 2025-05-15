@@ -9,8 +9,11 @@ This repository contains the experimental framework for evaluating six architect
 dsrag/
 
 ├── autonomous.py              # Centralized RAG: retrieval and generation by DC
+
 ├── source.py                  # Retrieval distributed at each DP
+
 ├── custodian.py               # Federator handles both retrieval and generation
+
 ├── guided.py                  # Federator retrieves; DC generates
 ├── federated.py               # Fully federated retrieval, with semantic structuring
 ├── baseline.py                # No retrieval; LLM responds based on internal knowledge
