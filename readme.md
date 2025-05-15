@@ -7,6 +7,7 @@ This repository contains the experimental framework for evaluating six architect
 ## Project Structure
 
 dsrag/
+
 ├── autonomous.py              # Centralized RAG: retrieval and generation by DC
 ├── source.py                  # Retrieval distributed at each DP
 ├── custodian.py               # Federator handles both retrieval and generation
