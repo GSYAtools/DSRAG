@@ -1,0 +1,110 @@
+[
+  {
+    "query": "What are the key risks in cross-border data sharing agreements?",
+    "query_index": 1,
+    "retrieved_fragments": 6,
+    "dps_contributing": 3,
+    "latency_ms": 7980.87,
+    "redundancy_count": 0,
+    "context_preview": [
+      "Informed Consent in Genomic Research\n\nModern genomic research involves extensive collection of patient data, often including highly sensitive DNA sequences. To respect patient autonomy, informed conse",
+      "Federated Data Access in Hospital Networks\n\nFederated learning and data spaces have emerged as promising solutions to enable multi-institutional analysis without centralizing sensitive health records.",
+      "Cross-Border Data Transfers: Regulatory Outlook\n\nThe European Data Protection Board (EDPB) recently updated its guidance on international data transfers following the Schrems II ruling. Emphasis is pl",
+      "GDPR Compliance for Health Data Sharing\n\nUnder the General Data Protection Regulation (GDPR), personal health data is classified as sensitive and receives enhanced protection. Controllers must establi",
+      "Patient-Centric Governance in Digital Health\n\nBeyond technical compliance, ethical data sharing frameworks call for patient-centered governance. This includes participatory consent, ongoing communicat",
+      "Ethical Risks in AI-Powered Diagnostics\n\nAI tools used for diagnostic purposes raise ethical concerns related to transparency, accountability, and bias. These risks are amplified when training dataset"
+    ],
+    "prompt_used": "Answer the following question based only on the context below.\n\nContext:\nInformed Consent in Genomic Research\n\nModern genomic research involves extensive collection of patient data, often including highly sensitive DNA sequences. To respect patient autonomy, informed consent must be granular, allowing individuals to accept or refuse specific types of data usage. Challenges arise when data is reused in secondary studies, or shared across borders where legal protections vary. Hospitals must adopt ",
+    "generated_answer": "The key risks in cross-border data sharing agreements include varying legal requirements, inconsistent anonymization standards, and the potential re-identifiability of health-related data. When data crosses national borders, especially outside the EU, additional safeguards such as Standard Contractual Clauses (SCCs) or Binding Corporate Rules (BCRs) are required."
+  },
+  {
+    "query": "How does anonymization impact the utility of patient data in research?",
+    "query_index": 2,
+    "retrieved_fragments": 6,
+    "dps_contributing": 3,
+    "latency_ms": 6375.1,
+    "redundancy_count": 0,
+    "context_preview": [
+      "Informed Consent in Genomic Research\n\nModern genomic research involves extensive collection of patient data, often including highly sensitive DNA sequences. To respect patient autonomy, informed conse",
+      "Federated Data Access in Hospital Networks\n\nFederated learning and data spaces have emerged as promising solutions to enable multi-institutional analysis without centralizing sensitive health records.",
+      "Cross-Border Data Transfers: Regulatory Outlook\n\nThe European Data Protection Board (EDPB) recently updated its guidance on international data transfers following the Schrems II ruling. Emphasis is pl",
+      "GDPR Compliance for Health Data Sharing\n\nUnder the General Data Protection Regulation (GDPR), personal health data is classified as sensitive and receives enhanced protection. Controllers must establi",
+      "Ethical Risks in AI-Powered Diagnostics\n\nAI tools used for diagnostic purposes raise ethical concerns related to transparency, accountability, and bias. These risks are amplified when training dataset",
+      "Patient-Centric Governance in Digital Health\n\nBeyond technical compliance, ethical data sharing frameworks call for patient-centered governance. This includes participatory consent, ongoing communicat"
+    ],
+    "prompt_used": "Answer the following question based only on the context below.\n\nContext:\nInformed Consent in Genomic Research\n\nModern genomic research involves extensive collection of patient data, often including highly sensitive DNA sequences. To respect patient autonomy, informed consent must be granular, allowing individuals to accept or refuse specific types of data usage. Challenges arise when data is reused in secondary studies, or shared across borders where legal protections vary. Hospitals must adopt ",
+    "generated_answer": "The text does not provide information on how anonymization impacts the utility of patient data in research."
+  },
+  {
+    "query": "What obligations exist under GDPR for sharing genetic data?",
+    "query_index": 3,
+    "retrieved_fragments": 6,
+    "dps_contributing": 3,
+    "latency_ms": 7371.39,
+    "redundancy_count": 0,
+    "context_preview": [
+      "Informed Consent in Genomic Research\n\nModern genomic research involves extensive collection of patient data, often including highly sensitive DNA sequences. To respect patient autonomy, informed conse",
+      "Federated Data Access in Hospital Networks\n\nFederated learning and data spaces have emerged as promising solutions to enable multi-institutional analysis without centralizing sensitive health records.",
+      "GDPR Compliance for Health Data Sharing\n\nUnder the General Data Protection Regulation (GDPR), personal health data is classified as sensitive and receives enhanced protection. Controllers must establi",
+      "Cross-Border Data Transfers: Regulatory Outlook\n\nThe European Data Protection Board (EDPB) recently updated its guidance on international data transfers following the Schrems II ruling. Emphasis is pl",
+      "Patient-Centric Governance in Digital Health\n\nBeyond technical compliance, ethical data sharing frameworks call for patient-centered governance. This includes participatory consent, ongoing communicat",
+      "Ethical Risks in AI-Powered Diagnostics\n\nAI tools used for diagnostic purposes raise ethical concerns related to transparency, accountability, and bias. These risks are amplified when training dataset"
+    ],
+    "prompt_used": "Answer the following question based only on the context below.\n\nContext:\nInformed Consent in Genomic Research\n\nModern genomic research involves extensive collection of patient data, often including highly sensitive DNA sequences. To respect patient autonomy, informed consent must be granular, allowing individuals to accept or refuse specific types of data usage. Challenges arise when data is reused in secondary studies, or shared across borders where legal protections vary. Hospitals must adopt ",
+    "generated_answer": "Under the General Data Protection Regulation (GDPR), personal health data, including genetic data, is classified as sensitive and receives enhanced protection. Controllers must establish a legal basis for processing this data, typically through explicit consent or public interest in public health. When this data crosses national borders, especially outside the EU, additional safeguards such as Standard Contractual Clauses (SCCs) or Binding Corporate Rules (BCRs) are required. The GDPR emphasizes transparency, accountability, and data minimization as cornerstones of lawful processing."
+  },
+  {
+    "query": "How can federated learning preserve privacy in hospital networks?",
+    "query_index": 4,
+    "retrieved_fragments": 6,
+    "dps_contributing": 3,
+    "latency_ms": 6291.47,
+    "redundancy_count": 0,
+    "context_preview": [
+      "Federated Data Access in Hospital Networks\n\nFederated learning and data spaces have emerged as promising solutions to enable multi-institutional analysis without centralizing sensitive health records.",
+      "Informed Consent in Genomic Research\n\nModern genomic research involves extensive collection of patient data, often including highly sensitive DNA sequences. To respect patient autonomy, informed conse",
+      "GDPR Compliance for Health Data Sharing\n\nUnder the General Data Protection Regulation (GDPR), personal health data is classified as sensitive and receives enhanced protection. Controllers must establi",
+      "Cross-Border Data Transfers: Regulatory Outlook\n\nThe European Data Protection Board (EDPB) recently updated its guidance on international data transfers following the Schrems II ruling. Emphasis is pl",
+      "Patient-Centric Governance in Digital Health\n\nBeyond technical compliance, ethical data sharing frameworks call for patient-centered governance. This includes participatory consent, ongoing communicat",
+      "Ethical Risks in AI-Powered Diagnostics\n\nAI tools used for diagnostic purposes raise ethical concerns related to transparency, accountability, and bias. These risks are amplified when training dataset"
+    ],
+    "prompt_used": "Answer the following question based only on the context below.\n\nContext:\nFederated Data Access in Hospital Networks\n\nFederated learning and data spaces have emerged as promising solutions to enable multi-institutional analysis without centralizing sensitive health records. In hospital consortia, federated models allow local computation on patient data, sharing only aggregated results. This preserves privacy while enabling collaboration. However, implementation remains complex due to heterogeneit",
+    "generated_answer": "Federated learning in hospital networks can preserve privacy by allowing local computation on patient data and sharing only aggregated results. This means that sensitive health records are not centralized, thus maintaining patient privacy."
+  },
+  {
+    "query": "What ethical risks arise in AI-based clinical decision making?",
+    "query_index": 5,
+    "retrieved_fragments": 6,
+    "dps_contributing": 3,
+    "latency_ms": 6741.97,
+    "redundancy_count": 0,
+    "context_preview": [
+      "Informed Consent in Genomic Research\n\nModern genomic research involves extensive collection of patient data, often including highly sensitive DNA sequences. To respect patient autonomy, informed conse",
+      "Federated Data Access in Hospital Networks\n\nFederated learning and data spaces have emerged as promising solutions to enable multi-institutional analysis without centralizing sensitive health records.",
+      "GDPR Compliance for Health Data Sharing\n\nUnder the General Data Protection Regulation (GDPR), personal health data is classified as sensitive and receives enhanced protection. Controllers must establi",
+      "Cross-Border Data Transfers: Regulatory Outlook\n\nThe European Data Protection Board (EDPB) recently updated its guidance on international data transfers following the Schrems II ruling. Emphasis is pl",
+      "Ethical Risks in AI-Powered Diagnostics\n\nAI tools used for diagnostic purposes raise ethical concerns related to transparency, accountability, and bias. These risks are amplified when training dataset",
+      "Patient-Centric Governance in Digital Health\n\nBeyond technical compliance, ethical data sharing frameworks call for patient-centered governance. This includes participatory consent, ongoing communicat"
+    ],
+    "prompt_used": "Answer the following question based only on the context below.\n\nContext:\nInformed Consent in Genomic Research\n\nModern genomic research involves extensive collection of patient data, often including highly sensitive DNA sequences. To respect patient autonomy, informed consent must be granular, allowing individuals to accept or refuse specific types of data usage. Challenges arise when data is reused in secondary studies, or shared across borders where legal protections vary. Hospitals must adopt ",
+    "generated_answer": "AI tools used for diagnostic purposes raise ethical concerns related to transparency, accountability, and bias. These risks are amplified when training datasets lack demographic diversity, leading to models that perform poorly on underrepresented populations."
+  },
+  {
+    "query": "What are the recommended encryption algorithms for securing federated brain-computer interface data?",
+    "query_index": 6,
+    "retrieved_fragments": 6,
+    "dps_contributing": 3,
+    "latency_ms": 6142.81,
+    "redundancy_count": 0,
+    "context_preview": [
+      "Federated Data Access in Hospital Networks\n\nFederated learning and data spaces have emerged as promising solutions to enable multi-institutional analysis without centralizing sensitive health records.",
+      "Informed Consent in Genomic Research\n\nModern genomic research involves extensive collection of patient data, often including highly sensitive DNA sequences. To respect patient autonomy, informed conse",
+      "Cross-Border Data Transfers: Regulatory Outlook\n\nThe European Data Protection Board (EDPB) recently updated its guidance on international data transfers following the Schrems II ruling. Emphasis is pl",
+      "GDPR Compliance for Health Data Sharing\n\nUnder the General Data Protection Regulation (GDPR), personal health data is classified as sensitive and receives enhanced protection. Controllers must establi",
+      "Patient-Centric Governance in Digital Health\n\nBeyond technical compliance, ethical data sharing frameworks call for patient-centered governance. This includes participatory consent, ongoing communicat",
+      "Ethical Risks in AI-Powered Diagnostics\n\nAI tools used for diagnostic purposes raise ethical concerns related to transparency, accountability, and bias. These risks are amplified when training dataset"
+    ],
+    "prompt_used": "Answer the following question based only on the context below.\n\nContext:\nFederated Data Access in Hospital Networks\n\nFederated learning and data spaces have emerged as promising solutions to enable multi-institutional analysis without centralizing sensitive health records. In hospital consortia, federated models allow local computation on patient data, sharing only aggregated results. This preserves privacy while enabling collaboration. However, implementation remains complex due to heterogeneit",
+    "generated_answer": "The context does not provide information on the recommended encryption algorithms for securing federated brain-computer interface data."
+  }
+]

@@ -1,0 +1,3 @@
+GDPR Compliance for Health Data Sharing
+
+Under the General Data Protection Regulation (GDPR), personal health data is classified as sensitive and receives enhanced protection. Controllers must establish a legal basis for processing, typically through explicit consent or public interest in public health. When data crosses national borders, especially outside the EU, additional safeguards such as Standard Contractual Clauses (SCCs) or Binding Corporate Rules (BCRs) are required. Regulators emphasize transparency, accountability, and data minimization as cornerstones of lawful processing.

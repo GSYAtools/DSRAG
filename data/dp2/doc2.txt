@@ -1,0 +1,3 @@
+Cross-Border Data Transfers: Regulatory Outlook
+
+The European Data Protection Board (EDPB) recently updated its guidance on international data transfers following the Schrems II ruling. Emphasis is placed on risk assessments and supplementary measures like encryption or pseudonymization. Health-related data poses unique challenges due to its potential re-identifiability. Supervisory authorities encourage Data Controllers to explore alternatives to direct transfers, such as federated analytics or synthetic data generation.

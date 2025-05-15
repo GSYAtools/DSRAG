@@ -1,0 +1,3 @@
+Patient-Centric Governance in Digital Health
+
+Beyond technical compliance, ethical data sharing frameworks call for patient-centered governance. This includes participatory consent, ongoing communication, and shared decision-making regarding data use. NGOs advocate for frameworks where patients are not mere data subjects but active stakeholders. Tools like personal data stores, data cooperatives, and participatory audits are gaining traction as ways to democratize control over health data in digital ecosystems.

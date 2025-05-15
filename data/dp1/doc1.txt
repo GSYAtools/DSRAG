@@ -1,0 +1,3 @@
+Informed Consent in Genomic Research
+
+Modern genomic research involves extensive collection of patient data, often including highly sensitive DNA sequences. To respect patient autonomy, informed consent must be granular, allowing individuals to accept or refuse specific types of data usage. Challenges arise when data is reused in secondary studies, or shared across borders where legal protections vary. Hospitals must adopt dynamic consent systems that inform participants of new risks and opportunities associated with their data.

@@ -1,0 +1,3 @@
+Ethical Risks in AI-Powered Diagnostics
+
+AI tools used for diagnostic purposes raise ethical concerns related to transparency, accountability, and bias. These risks are amplified when training datasets lack demographic diversity, leading to models that perform poorly on underrepresented populations. Ethics committees recommend that AI systems in healthcare undergo rigorous validation and include mechanisms for human oversight. Transparency in data provenance and model reasoning is essential to maintain trust.
