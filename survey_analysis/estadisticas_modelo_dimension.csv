@@ -1,0 +1,25 @@
+Model,Dimension,Mean,StdDev,Mode
+At Source RAG,Hallucination Risk,1.0,0.0,1
+At Source RAG,Relevance,3.7083333333333335,1.5632106227186382,5
+At Source RAG,Semantic Consistency,4.016666666666667,1.0040534095852267,5
+At Source RAG,Traceability,3.6,1.5685994395258056,5
+Autonomous RAG,Hallucination Risk,1.0,0.0,1
+Autonomous RAG,Relevance,3.1333333333333333,1.6292150676613195,5
+Autonomous RAG,Semantic Consistency,4.041666666666667,0.7378806049184696,4
+Autonomous RAG,Traceability,3.066666666666667,1.6486986634655727,5
+Baseline,Hallucination Risk,3.6333333333333333,0.6601926550157123,3
+Baseline,Relevance,3.975,0.7271736468031842,4
+Baseline,Semantic Consistency,4.816666666666666,0.3885619540779336,5
+Baseline,Traceability,1.5416666666666667,0.5003500175437415,2
+Custodian RAG,Hallucination Risk,1.0,0.0,1
+Custodian RAG,Relevance,3.775,1.6574887352748515,5
+Custodian RAG,Semantic Consistency,4.283333333333333,0.7689710830783195,5
+Custodian RAG,Traceability,3.75,1.6915509267577868,5
+Federated RAG,Hallucination Risk,1.0,0.0,1
+Federated RAG,Relevance,4.041666666666667,1.2325817226785538,5
+Federated RAG,Semantic Consistency,4.475,0.5935578525887333,5
+Federated RAG,Traceability,3.9166666666666665,1.332107279434194,5
+Guided RAG,Hallucination Risk,1.0,0.0,1
+Guided RAG,Relevance,3.566666666666667,1.5969157949066726,5
+Guided RAG,Semantic Consistency,3.9166666666666665,1.0891622972743422,5
+Guided RAG,Traceability,3.725,1.5391938302432298,5
