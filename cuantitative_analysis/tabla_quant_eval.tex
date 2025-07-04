@@ -1,0 +1,19 @@
+
+\begin{table}[htbp]
+\centering
+\caption{Quantitative evaluation of the six architectures. Values are averaged over six test queries and include standard deviation ($\sigma$).}
+\label{tab:quantitative-results}
+\begin{tabular}{|l|cc|cc|cc|cc|}
+\hline
+\textbf{Model} & \multicolumn{2}{c|}{\textbf{Latency (ms)}} & \multicolumn{2}{c|}{\textbf{Fragments Retrieved}} & \multicolumn{2}{c|}{\textbf{DPs Contributing}} & \multicolumn{2}{c|}{\textbf{Redundancy}} \\
+              & Mean & $\sigma$ & Mean & $\sigma$ & Mean & $\sigma$ & Mean & $\sigma$ \\
+\hline
+Autonomous   & $2260.95 \pm 440.79$ & $3.00 \pm 0.00$ & $2.17 \pm 0.41$ & $0.00 \pm 0.00$ \\
+Source       & $6817.27 \pm 720.22$ & $6.00 \pm 0.00$ & $3.00 \pm 0.00$ & $0.00 \pm 0.00$ \\
+Custodian    & $2247.47 \pm 319.55$ & $3.00 \pm 0.00$ & $2.17 \pm 0.41$ & $0.00 \pm 0.00$ \\
+Guided       & $2836.80 \pm 1424.37$ & $3.00 \pm 0.00$ & $2.17 \pm 0.41$ & $0.00 \pm 0.00$ \\
+Federated    & $6499.81 \pm 315.60$ & $6.00 \pm 0.00$ & $3.00 \pm 0.00$ & $0.00 \pm 0.00$ \\
+Baseline     & $15760.85 \pm 7907.17$ & $0.00 \pm 0.00$ & $0.00 \pm 0.00$ & $0.00 \pm 0.00$ \\
+\hline
+\end{tabular}
+\end{table}
