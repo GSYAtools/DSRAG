@@ -1,0 +1,2881 @@
+Query,Model,Evaluator,Dimension,Score
+Query 1,Autonomous RAG,Eval_1,Relevance,1
+Query 1,Autonomous RAG,Eval_1,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_1,Traceability,2
+Query 1,Autonomous RAG,Eval_1,Semantic Consistency,4
+Query 1,Autonomous RAG,Eval_2,Relevance,2
+Query 1,Autonomous RAG,Eval_2,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_2,Traceability,1
+Query 1,Autonomous RAG,Eval_2,Semantic Consistency,4
+Query 1,Autonomous RAG,Eval_3,Relevance,2
+Query 1,Autonomous RAG,Eval_3,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_3,Traceability,1
+Query 1,Autonomous RAG,Eval_3,Semantic Consistency,3
+Query 1,Autonomous RAG,Eval_4,Relevance,2
+Query 1,Autonomous RAG,Eval_4,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_4,Traceability,2
+Query 1,Autonomous RAG,Eval_4,Semantic Consistency,3
+Query 1,Autonomous RAG,Eval_5,Relevance,2
+Query 1,Autonomous RAG,Eval_5,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_5,Traceability,2
+Query 1,Autonomous RAG,Eval_5,Semantic Consistency,3
+Query 1,Autonomous RAG,Eval_6,Relevance,2
+Query 1,Autonomous RAG,Eval_6,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_6,Traceability,2
+Query 1,Autonomous RAG,Eval_6,Semantic Consistency,4
+Query 1,Autonomous RAG,Eval_7,Relevance,1
+Query 1,Autonomous RAG,Eval_7,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_7,Traceability,2
+Query 1,Autonomous RAG,Eval_7,Semantic Consistency,3
+Query 1,Autonomous RAG,Eval_8,Relevance,2
+Query 1,Autonomous RAG,Eval_8,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_8,Traceability,1
+Query 1,Autonomous RAG,Eval_8,Semantic Consistency,3
+Query 1,Autonomous RAG,Eval_9,Relevance,2
+Query 1,Autonomous RAG,Eval_9,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_9,Traceability,1
+Query 1,Autonomous RAG,Eval_9,Semantic Consistency,4
+Query 1,Autonomous RAG,Eval_10,Relevance,1
+Query 1,Autonomous RAG,Eval_10,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_10,Traceability,2
+Query 1,Autonomous RAG,Eval_10,Semantic Consistency,4
+Query 1,Autonomous RAG,Eval_11,Relevance,1
+Query 1,Autonomous RAG,Eval_11,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_11,Traceability,2
+Query 1,Autonomous RAG,Eval_11,Semantic Consistency,3
+Query 1,Autonomous RAG,Eval_12,Relevance,1
+Query 1,Autonomous RAG,Eval_12,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_12,Traceability,2
+Query 1,Autonomous RAG,Eval_12,Semantic Consistency,4
+Query 1,Autonomous RAG,Eval_13,Relevance,1
+Query 1,Autonomous RAG,Eval_13,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_13,Traceability,2
+Query 1,Autonomous RAG,Eval_13,Semantic Consistency,3
+Query 1,Autonomous RAG,Eval_14,Relevance,1
+Query 1,Autonomous RAG,Eval_14,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_14,Traceability,1
+Query 1,Autonomous RAG,Eval_14,Semantic Consistency,4
+Query 1,Autonomous RAG,Eval_15,Relevance,2
+Query 1,Autonomous RAG,Eval_15,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_15,Traceability,1
+Query 1,Autonomous RAG,Eval_15,Semantic Consistency,4
+Query 1,Autonomous RAG,Eval_16,Relevance,2
+Query 1,Autonomous RAG,Eval_16,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_16,Traceability,2
+Query 1,Autonomous RAG,Eval_16,Semantic Consistency,3
+Query 1,Autonomous RAG,Eval_17,Relevance,1
+Query 1,Autonomous RAG,Eval_17,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_17,Traceability,2
+Query 1,Autonomous RAG,Eval_17,Semantic Consistency,4
+Query 1,Autonomous RAG,Eval_18,Relevance,2
+Query 1,Autonomous RAG,Eval_18,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_18,Traceability,1
+Query 1,Autonomous RAG,Eval_18,Semantic Consistency,4
+Query 1,Autonomous RAG,Eval_19,Relevance,1
+Query 1,Autonomous RAG,Eval_19,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_19,Traceability,2
+Query 1,Autonomous RAG,Eval_19,Semantic Consistency,4
+Query 1,Autonomous RAG,Eval_20,Relevance,2
+Query 1,Autonomous RAG,Eval_20,Hallucination Risk,1
+Query 1,Autonomous RAG,Eval_20,Traceability,2
+Query 1,Autonomous RAG,Eval_20,Semantic Consistency,3
+Query 1,At Source RAG,Eval_1,Relevance,5
+Query 1,At Source RAG,Eval_1,Hallucination Risk,1
+Query 1,At Source RAG,Eval_1,Traceability,4
+Query 1,At Source RAG,Eval_1,Semantic Consistency,5
+Query 1,At Source RAG,Eval_2,Relevance,4
+Query 1,At Source RAG,Eval_2,Hallucination Risk,1
+Query 1,At Source RAG,Eval_2,Traceability,4
+Query 1,At Source RAG,Eval_2,Semantic Consistency,5
+Query 1,At Source RAG,Eval_3,Relevance,5
+Query 1,At Source RAG,Eval_3,Hallucination Risk,1
+Query 1,At Source RAG,Eval_3,Traceability,5
+Query 1,At Source RAG,Eval_3,Semantic Consistency,5
+Query 1,At Source RAG,Eval_4,Relevance,5
+Query 1,At Source RAG,Eval_4,Hallucination Risk,1
+Query 1,At Source RAG,Eval_4,Traceability,4
+Query 1,At Source RAG,Eval_4,Semantic Consistency,5
+Query 1,At Source RAG,Eval_5,Relevance,4
+Query 1,At Source RAG,Eval_5,Hallucination Risk,1
+Query 1,At Source RAG,Eval_5,Traceability,4
+Query 1,At Source RAG,Eval_5,Semantic Consistency,5
+Query 1,At Source RAG,Eval_6,Relevance,4
+Query 1,At Source RAG,Eval_6,Hallucination Risk,1
+Query 1,At Source RAG,Eval_6,Traceability,4
+Query 1,At Source RAG,Eval_6,Semantic Consistency,5
+Query 1,At Source RAG,Eval_7,Relevance,4
+Query 1,At Source RAG,Eval_7,Hallucination Risk,1
+Query 1,At Source RAG,Eval_7,Traceability,4
+Query 1,At Source RAG,Eval_7,Semantic Consistency,4
+Query 1,At Source RAG,Eval_8,Relevance,4
+Query 1,At Source RAG,Eval_8,Hallucination Risk,1
+Query 1,At Source RAG,Eval_8,Traceability,5
+Query 1,At Source RAG,Eval_8,Semantic Consistency,4
+Query 1,At Source RAG,Eval_9,Relevance,5
+Query 1,At Source RAG,Eval_9,Hallucination Risk,1
+Query 1,At Source RAG,Eval_9,Traceability,4
+Query 1,At Source RAG,Eval_9,Semantic Consistency,5
+Query 1,At Source RAG,Eval_10,Relevance,4
+Query 1,At Source RAG,Eval_10,Hallucination Risk,1
+Query 1,At Source RAG,Eval_10,Traceability,5
+Query 1,At Source RAG,Eval_10,Semantic Consistency,5
+Query 1,At Source RAG,Eval_11,Relevance,5
+Query 1,At Source RAG,Eval_11,Hallucination Risk,1
+Query 1,At Source RAG,Eval_11,Traceability,4
+Query 1,At Source RAG,Eval_11,Semantic Consistency,5
+Query 1,At Source RAG,Eval_12,Relevance,4
+Query 1,At Source RAG,Eval_12,Hallucination Risk,1
+Query 1,At Source RAG,Eval_12,Traceability,5
+Query 1,At Source RAG,Eval_12,Semantic Consistency,4
+Query 1,At Source RAG,Eval_13,Relevance,4
+Query 1,At Source RAG,Eval_13,Hallucination Risk,1
+Query 1,At Source RAG,Eval_13,Traceability,4
+Query 1,At Source RAG,Eval_13,Semantic Consistency,5
+Query 1,At Source RAG,Eval_14,Relevance,4
+Query 1,At Source RAG,Eval_14,Hallucination Risk,1
+Query 1,At Source RAG,Eval_14,Traceability,5
+Query 1,At Source RAG,Eval_14,Semantic Consistency,4
+Query 1,At Source RAG,Eval_15,Relevance,5
+Query 1,At Source RAG,Eval_15,Hallucination Risk,1
+Query 1,At Source RAG,Eval_15,Traceability,4
+Query 1,At Source RAG,Eval_15,Semantic Consistency,5
+Query 1,At Source RAG,Eval_16,Relevance,5
+Query 1,At Source RAG,Eval_16,Hallucination Risk,1
+Query 1,At Source RAG,Eval_16,Traceability,4
+Query 1,At Source RAG,Eval_16,Semantic Consistency,5
+Query 1,At Source RAG,Eval_17,Relevance,5
+Query 1,At Source RAG,Eval_17,Hallucination Risk,1
+Query 1,At Source RAG,Eval_17,Traceability,4
+Query 1,At Source RAG,Eval_17,Semantic Consistency,4
+Query 1,At Source RAG,Eval_18,Relevance,5
+Query 1,At Source RAG,Eval_18,Hallucination Risk,1
+Query 1,At Source RAG,Eval_18,Traceability,4
+Query 1,At Source RAG,Eval_18,Semantic Consistency,4
+Query 1,At Source RAG,Eval_19,Relevance,4
+Query 1,At Source RAG,Eval_19,Hallucination Risk,1
+Query 1,At Source RAG,Eval_19,Traceability,4
+Query 1,At Source RAG,Eval_19,Semantic Consistency,5
+Query 1,At Source RAG,Eval_20,Relevance,5
+Query 1,At Source RAG,Eval_20,Hallucination Risk,1
+Query 1,At Source RAG,Eval_20,Traceability,5
+Query 1,At Source RAG,Eval_20,Semantic Consistency,4
+Query 1,Custodian RAG,Eval_1,Relevance,1
+Query 1,Custodian RAG,Eval_1,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_1,Traceability,1
+Query 1,Custodian RAG,Eval_1,Semantic Consistency,4
+Query 1,Custodian RAG,Eval_2,Relevance,2
+Query 1,Custodian RAG,Eval_2,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_2,Traceability,1
+Query 1,Custodian RAG,Eval_2,Semantic Consistency,3
+Query 1,Custodian RAG,Eval_3,Relevance,2
+Query 1,Custodian RAG,Eval_3,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_3,Traceability,1
+Query 1,Custodian RAG,Eval_3,Semantic Consistency,3
+Query 1,Custodian RAG,Eval_4,Relevance,1
+Query 1,Custodian RAG,Eval_4,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_4,Traceability,2
+Query 1,Custodian RAG,Eval_4,Semantic Consistency,4
+Query 1,Custodian RAG,Eval_5,Relevance,2
+Query 1,Custodian RAG,Eval_5,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_5,Traceability,1
+Query 1,Custodian RAG,Eval_5,Semantic Consistency,3
+Query 1,Custodian RAG,Eval_6,Relevance,2
+Query 1,Custodian RAG,Eval_6,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_6,Traceability,2
+Query 1,Custodian RAG,Eval_6,Semantic Consistency,3
+Query 1,Custodian RAG,Eval_7,Relevance,1
+Query 1,Custodian RAG,Eval_7,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_7,Traceability,1
+Query 1,Custodian RAG,Eval_7,Semantic Consistency,3
+Query 1,Custodian RAG,Eval_8,Relevance,1
+Query 1,Custodian RAG,Eval_8,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_8,Traceability,1
+Query 1,Custodian RAG,Eval_8,Semantic Consistency,3
+Query 1,Custodian RAG,Eval_9,Relevance,1
+Query 1,Custodian RAG,Eval_9,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_9,Traceability,1
+Query 1,Custodian RAG,Eval_9,Semantic Consistency,3
+Query 1,Custodian RAG,Eval_10,Relevance,1
+Query 1,Custodian RAG,Eval_10,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_10,Traceability,1
+Query 1,Custodian RAG,Eval_10,Semantic Consistency,4
+Query 1,Custodian RAG,Eval_11,Relevance,1
+Query 1,Custodian RAG,Eval_11,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_11,Traceability,1
+Query 1,Custodian RAG,Eval_11,Semantic Consistency,4
+Query 1,Custodian RAG,Eval_12,Relevance,2
+Query 1,Custodian RAG,Eval_12,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_12,Traceability,1
+Query 1,Custodian RAG,Eval_12,Semantic Consistency,4
+Query 1,Custodian RAG,Eval_13,Relevance,1
+Query 1,Custodian RAG,Eval_13,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_13,Traceability,2
+Query 1,Custodian RAG,Eval_13,Semantic Consistency,4
+Query 1,Custodian RAG,Eval_14,Relevance,2
+Query 1,Custodian RAG,Eval_14,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_14,Traceability,2
+Query 1,Custodian RAG,Eval_14,Semantic Consistency,4
+Query 1,Custodian RAG,Eval_15,Relevance,1
+Query 1,Custodian RAG,Eval_15,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_15,Traceability,1
+Query 1,Custodian RAG,Eval_15,Semantic Consistency,3
+Query 1,Custodian RAG,Eval_16,Relevance,2
+Query 1,Custodian RAG,Eval_16,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_16,Traceability,1
+Query 1,Custodian RAG,Eval_16,Semantic Consistency,4
+Query 1,Custodian RAG,Eval_17,Relevance,1
+Query 1,Custodian RAG,Eval_17,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_17,Traceability,2
+Query 1,Custodian RAG,Eval_17,Semantic Consistency,3
+Query 1,Custodian RAG,Eval_18,Relevance,1
+Query 1,Custodian RAG,Eval_18,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_18,Traceability,2
+Query 1,Custodian RAG,Eval_18,Semantic Consistency,3
+Query 1,Custodian RAG,Eval_19,Relevance,2
+Query 1,Custodian RAG,Eval_19,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_19,Traceability,1
+Query 1,Custodian RAG,Eval_19,Semantic Consistency,4
+Query 1,Custodian RAG,Eval_20,Relevance,2
+Query 1,Custodian RAG,Eval_20,Hallucination Risk,1
+Query 1,Custodian RAG,Eval_20,Traceability,2
+Query 1,Custodian RAG,Eval_20,Semantic Consistency,3
+Query 1,Guided RAG,Eval_1,Relevance,2
+Query 1,Guided RAG,Eval_1,Hallucination Risk,1
+Query 1,Guided RAG,Eval_1,Traceability,1
+Query 1,Guided RAG,Eval_1,Semantic Consistency,3
+Query 1,Guided RAG,Eval_2,Relevance,1
+Query 1,Guided RAG,Eval_2,Hallucination Risk,1
+Query 1,Guided RAG,Eval_2,Traceability,2
+Query 1,Guided RAG,Eval_2,Semantic Consistency,3
+Query 1,Guided RAG,Eval_3,Relevance,1
+Query 1,Guided RAG,Eval_3,Hallucination Risk,1
+Query 1,Guided RAG,Eval_3,Traceability,1
+Query 1,Guided RAG,Eval_3,Semantic Consistency,3
+Query 1,Guided RAG,Eval_4,Relevance,2
+Query 1,Guided RAG,Eval_4,Hallucination Risk,1
+Query 1,Guided RAG,Eval_4,Traceability,2
+Query 1,Guided RAG,Eval_4,Semantic Consistency,2
+Query 1,Guided RAG,Eval_5,Relevance,1
+Query 1,Guided RAG,Eval_5,Hallucination Risk,1
+Query 1,Guided RAG,Eval_5,Traceability,1
+Query 1,Guided RAG,Eval_5,Semantic Consistency,2
+Query 1,Guided RAG,Eval_6,Relevance,1
+Query 1,Guided RAG,Eval_6,Hallucination Risk,1
+Query 1,Guided RAG,Eval_6,Traceability,2
+Query 1,Guided RAG,Eval_6,Semantic Consistency,3
+Query 1,Guided RAG,Eval_7,Relevance,1
+Query 1,Guided RAG,Eval_7,Hallucination Risk,1
+Query 1,Guided RAG,Eval_7,Traceability,2
+Query 1,Guided RAG,Eval_7,Semantic Consistency,3
+Query 1,Guided RAG,Eval_8,Relevance,1
+Query 1,Guided RAG,Eval_8,Hallucination Risk,1
+Query 1,Guided RAG,Eval_8,Traceability,1
+Query 1,Guided RAG,Eval_8,Semantic Consistency,2
+Query 1,Guided RAG,Eval_9,Relevance,1
+Query 1,Guided RAG,Eval_9,Hallucination Risk,1
+Query 1,Guided RAG,Eval_9,Traceability,2
+Query 1,Guided RAG,Eval_9,Semantic Consistency,2
+Query 1,Guided RAG,Eval_10,Relevance,2
+Query 1,Guided RAG,Eval_10,Hallucination Risk,1
+Query 1,Guided RAG,Eval_10,Traceability,1
+Query 1,Guided RAG,Eval_10,Semantic Consistency,2
+Query 1,Guided RAG,Eval_11,Relevance,2
+Query 1,Guided RAG,Eval_11,Hallucination Risk,1
+Query 1,Guided RAG,Eval_11,Traceability,2
+Query 1,Guided RAG,Eval_11,Semantic Consistency,3
+Query 1,Guided RAG,Eval_12,Relevance,2
+Query 1,Guided RAG,Eval_12,Hallucination Risk,1
+Query 1,Guided RAG,Eval_12,Traceability,2
+Query 1,Guided RAG,Eval_12,Semantic Consistency,2
+Query 1,Guided RAG,Eval_13,Relevance,2
+Query 1,Guided RAG,Eval_13,Hallucination Risk,1
+Query 1,Guided RAG,Eval_13,Traceability,1
+Query 1,Guided RAG,Eval_13,Semantic Consistency,3
+Query 1,Guided RAG,Eval_14,Relevance,1
+Query 1,Guided RAG,Eval_14,Hallucination Risk,1
+Query 1,Guided RAG,Eval_14,Traceability,2
+Query 1,Guided RAG,Eval_14,Semantic Consistency,3
+Query 1,Guided RAG,Eval_15,Relevance,1
+Query 1,Guided RAG,Eval_15,Hallucination Risk,1
+Query 1,Guided RAG,Eval_15,Traceability,2
+Query 1,Guided RAG,Eval_15,Semantic Consistency,2
+Query 1,Guided RAG,Eval_16,Relevance,1
+Query 1,Guided RAG,Eval_16,Hallucination Risk,1
+Query 1,Guided RAG,Eval_16,Traceability,2
+Query 1,Guided RAG,Eval_16,Semantic Consistency,3
+Query 1,Guided RAG,Eval_17,Relevance,2
+Query 1,Guided RAG,Eval_17,Hallucination Risk,1
+Query 1,Guided RAG,Eval_17,Traceability,2
+Query 1,Guided RAG,Eval_17,Semantic Consistency,2
+Query 1,Guided RAG,Eval_18,Relevance,1
+Query 1,Guided RAG,Eval_18,Hallucination Risk,1
+Query 1,Guided RAG,Eval_18,Traceability,2
+Query 1,Guided RAG,Eval_18,Semantic Consistency,3
+Query 1,Guided RAG,Eval_19,Relevance,1
+Query 1,Guided RAG,Eval_19,Hallucination Risk,1
+Query 1,Guided RAG,Eval_19,Traceability,1
+Query 1,Guided RAG,Eval_19,Semantic Consistency,3
+Query 1,Guided RAG,Eval_20,Relevance,1
+Query 1,Guided RAG,Eval_20,Hallucination Risk,1
+Query 1,Guided RAG,Eval_20,Traceability,1
+Query 1,Guided RAG,Eval_20,Semantic Consistency,3
+Query 1,Federated RAG,Eval_1,Relevance,5
+Query 1,Federated RAG,Eval_1,Hallucination Risk,1
+Query 1,Federated RAG,Eval_1,Traceability,4
+Query 1,Federated RAG,Eval_1,Semantic Consistency,5
+Query 1,Federated RAG,Eval_2,Relevance,5
+Query 1,Federated RAG,Eval_2,Hallucination Risk,1
+Query 1,Federated RAG,Eval_2,Traceability,4
+Query 1,Federated RAG,Eval_2,Semantic Consistency,4
+Query 1,Federated RAG,Eval_3,Relevance,5
+Query 1,Federated RAG,Eval_3,Hallucination Risk,1
+Query 1,Federated RAG,Eval_3,Traceability,4
+Query 1,Federated RAG,Eval_3,Semantic Consistency,4
+Query 1,Federated RAG,Eval_4,Relevance,4
+Query 1,Federated RAG,Eval_4,Hallucination Risk,1
+Query 1,Federated RAG,Eval_4,Traceability,5
+Query 1,Federated RAG,Eval_4,Semantic Consistency,5
+Query 1,Federated RAG,Eval_5,Relevance,5
+Query 1,Federated RAG,Eval_5,Hallucination Risk,1
+Query 1,Federated RAG,Eval_5,Traceability,4
+Query 1,Federated RAG,Eval_5,Semantic Consistency,5
+Query 1,Federated RAG,Eval_6,Relevance,5
+Query 1,Federated RAG,Eval_6,Hallucination Risk,1
+Query 1,Federated RAG,Eval_6,Traceability,4
+Query 1,Federated RAG,Eval_6,Semantic Consistency,4
+Query 1,Federated RAG,Eval_7,Relevance,5
+Query 1,Federated RAG,Eval_7,Hallucination Risk,1
+Query 1,Federated RAG,Eval_7,Traceability,4
+Query 1,Federated RAG,Eval_7,Semantic Consistency,5
+Query 1,Federated RAG,Eval_8,Relevance,5
+Query 1,Federated RAG,Eval_8,Hallucination Risk,1
+Query 1,Federated RAG,Eval_8,Traceability,4
+Query 1,Federated RAG,Eval_8,Semantic Consistency,5
+Query 1,Federated RAG,Eval_9,Relevance,5
+Query 1,Federated RAG,Eval_9,Hallucination Risk,1
+Query 1,Federated RAG,Eval_9,Traceability,5
+Query 1,Federated RAG,Eval_9,Semantic Consistency,4
+Query 1,Federated RAG,Eval_10,Relevance,5
+Query 1,Federated RAG,Eval_10,Hallucination Risk,1
+Query 1,Federated RAG,Eval_10,Traceability,4
+Query 1,Federated RAG,Eval_10,Semantic Consistency,4
+Query 1,Federated RAG,Eval_11,Relevance,4
+Query 1,Federated RAG,Eval_11,Hallucination Risk,1
+Query 1,Federated RAG,Eval_11,Traceability,4
+Query 1,Federated RAG,Eval_11,Semantic Consistency,4
+Query 1,Federated RAG,Eval_12,Relevance,4
+Query 1,Federated RAG,Eval_12,Hallucination Risk,1
+Query 1,Federated RAG,Eval_12,Traceability,5
+Query 1,Federated RAG,Eval_12,Semantic Consistency,5
+Query 1,Federated RAG,Eval_13,Relevance,5
+Query 1,Federated RAG,Eval_13,Hallucination Risk,1
+Query 1,Federated RAG,Eval_13,Traceability,4
+Query 1,Federated RAG,Eval_13,Semantic Consistency,4
+Query 1,Federated RAG,Eval_14,Relevance,4
+Query 1,Federated RAG,Eval_14,Hallucination Risk,1
+Query 1,Federated RAG,Eval_14,Traceability,4
+Query 1,Federated RAG,Eval_14,Semantic Consistency,5
+Query 1,Federated RAG,Eval_15,Relevance,5
+Query 1,Federated RAG,Eval_15,Hallucination Risk,1
+Query 1,Federated RAG,Eval_15,Traceability,4
+Query 1,Federated RAG,Eval_15,Semantic Consistency,4
+Query 1,Federated RAG,Eval_16,Relevance,4
+Query 1,Federated RAG,Eval_16,Hallucination Risk,1
+Query 1,Federated RAG,Eval_16,Traceability,5
+Query 1,Federated RAG,Eval_16,Semantic Consistency,5
+Query 1,Federated RAG,Eval_17,Relevance,4
+Query 1,Federated RAG,Eval_17,Hallucination Risk,1
+Query 1,Federated RAG,Eval_17,Traceability,4
+Query 1,Federated RAG,Eval_17,Semantic Consistency,5
+Query 1,Federated RAG,Eval_18,Relevance,5
+Query 1,Federated RAG,Eval_18,Hallucination Risk,1
+Query 1,Federated RAG,Eval_18,Traceability,5
+Query 1,Federated RAG,Eval_18,Semantic Consistency,5
+Query 1,Federated RAG,Eval_19,Relevance,5
+Query 1,Federated RAG,Eval_19,Hallucination Risk,1
+Query 1,Federated RAG,Eval_19,Traceability,5
+Query 1,Federated RAG,Eval_19,Semantic Consistency,5
+Query 1,Federated RAG,Eval_20,Relevance,4
+Query 1,Federated RAG,Eval_20,Hallucination Risk,1
+Query 1,Federated RAG,Eval_20,Traceability,5
+Query 1,Federated RAG,Eval_20,Semantic Consistency,4
+Query 1,Baseline,Eval_1,Relevance,4
+Query 1,Baseline,Eval_1,Hallucination Risk,3
+Query 1,Baseline,Eval_1,Traceability,2
+Query 1,Baseline,Eval_1,Semantic Consistency,4
+Query 1,Baseline,Eval_2,Relevance,3
+Query 1,Baseline,Eval_2,Hallucination Risk,4
+Query 1,Baseline,Eval_2,Traceability,2
+Query 1,Baseline,Eval_2,Semantic Consistency,5
+Query 1,Baseline,Eval_3,Relevance,4
+Query 1,Baseline,Eval_3,Hallucination Risk,3
+Query 1,Baseline,Eval_3,Traceability,2
+Query 1,Baseline,Eval_3,Semantic Consistency,4
+Query 1,Baseline,Eval_4,Relevance,3
+Query 1,Baseline,Eval_4,Hallucination Risk,3
+Query 1,Baseline,Eval_4,Traceability,2
+Query 1,Baseline,Eval_4,Semantic Consistency,5
+Query 1,Baseline,Eval_5,Relevance,4
+Query 1,Baseline,Eval_5,Hallucination Risk,3
+Query 1,Baseline,Eval_5,Traceability,1
+Query 1,Baseline,Eval_5,Semantic Consistency,5
+Query 1,Baseline,Eval_6,Relevance,4
+Query 1,Baseline,Eval_6,Hallucination Risk,4
+Query 1,Baseline,Eval_6,Traceability,2
+Query 1,Baseline,Eval_6,Semantic Consistency,4
+Query 1,Baseline,Eval_7,Relevance,4
+Query 1,Baseline,Eval_7,Hallucination Risk,3
+Query 1,Baseline,Eval_7,Traceability,2
+Query 1,Baseline,Eval_7,Semantic Consistency,4
+Query 1,Baseline,Eval_8,Relevance,4
+Query 1,Baseline,Eval_8,Hallucination Risk,4
+Query 1,Baseline,Eval_8,Traceability,1
+Query 1,Baseline,Eval_8,Semantic Consistency,5
+Query 1,Baseline,Eval_9,Relevance,3
+Query 1,Baseline,Eval_9,Hallucination Risk,3
+Query 1,Baseline,Eval_9,Traceability,2
+Query 1,Baseline,Eval_9,Semantic Consistency,4
+Query 1,Baseline,Eval_10,Relevance,4
+Query 1,Baseline,Eval_10,Hallucination Risk,4
+Query 1,Baseline,Eval_10,Traceability,2
+Query 1,Baseline,Eval_10,Semantic Consistency,4
+Query 1,Baseline,Eval_11,Relevance,3
+Query 1,Baseline,Eval_11,Hallucination Risk,4
+Query 1,Baseline,Eval_11,Traceability,1
+Query 1,Baseline,Eval_11,Semantic Consistency,4
+Query 1,Baseline,Eval_12,Relevance,3
+Query 1,Baseline,Eval_12,Hallucination Risk,3
+Query 1,Baseline,Eval_12,Traceability,1
+Query 1,Baseline,Eval_12,Semantic Consistency,5
+Query 1,Baseline,Eval_13,Relevance,4
+Query 1,Baseline,Eval_13,Hallucination Risk,4
+Query 1,Baseline,Eval_13,Traceability,2
+Query 1,Baseline,Eval_13,Semantic Consistency,4
+Query 1,Baseline,Eval_14,Relevance,4
+Query 1,Baseline,Eval_14,Hallucination Risk,4
+Query 1,Baseline,Eval_14,Traceability,1
+Query 1,Baseline,Eval_14,Semantic Consistency,4
+Query 1,Baseline,Eval_15,Relevance,3
+Query 1,Baseline,Eval_15,Hallucination Risk,3
+Query 1,Baseline,Eval_15,Traceability,2
+Query 1,Baseline,Eval_15,Semantic Consistency,4
+Query 1,Baseline,Eval_16,Relevance,4
+Query 1,Baseline,Eval_16,Hallucination Risk,4
+Query 1,Baseline,Eval_16,Traceability,2
+Query 1,Baseline,Eval_16,Semantic Consistency,5
+Query 1,Baseline,Eval_17,Relevance,3
+Query 1,Baseline,Eval_17,Hallucination Risk,3
+Query 1,Baseline,Eval_17,Traceability,2
+Query 1,Baseline,Eval_17,Semantic Consistency,5
+Query 1,Baseline,Eval_18,Relevance,4
+Query 1,Baseline,Eval_18,Hallucination Risk,3
+Query 1,Baseline,Eval_18,Traceability,2
+Query 1,Baseline,Eval_18,Semantic Consistency,5
+Query 1,Baseline,Eval_19,Relevance,4
+Query 1,Baseline,Eval_19,Hallucination Risk,3
+Query 1,Baseline,Eval_19,Traceability,1
+Query 1,Baseline,Eval_19,Semantic Consistency,5
+Query 1,Baseline,Eval_20,Relevance,3
+Query 1,Baseline,Eval_20,Hallucination Risk,3
+Query 1,Baseline,Eval_20,Traceability,2
+Query 1,Baseline,Eval_20,Semantic Consistency,5
+Query 2,Autonomous RAG,Eval_1,Relevance,2
+Query 2,Autonomous RAG,Eval_1,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_1,Traceability,2
+Query 2,Autonomous RAG,Eval_1,Semantic Consistency,3
+Query 2,Autonomous RAG,Eval_2,Relevance,2
+Query 2,Autonomous RAG,Eval_2,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_2,Traceability,1
+Query 2,Autonomous RAG,Eval_2,Semantic Consistency,3
+Query 2,Autonomous RAG,Eval_3,Relevance,1
+Query 2,Autonomous RAG,Eval_3,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_3,Traceability,2
+Query 2,Autonomous RAG,Eval_3,Semantic Consistency,3
+Query 2,Autonomous RAG,Eval_4,Relevance,2
+Query 2,Autonomous RAG,Eval_4,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_4,Traceability,1
+Query 2,Autonomous RAG,Eval_4,Semantic Consistency,3
+Query 2,Autonomous RAG,Eval_5,Relevance,2
+Query 2,Autonomous RAG,Eval_5,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_5,Traceability,2
+Query 2,Autonomous RAG,Eval_5,Semantic Consistency,4
+Query 2,Autonomous RAG,Eval_6,Relevance,1
+Query 2,Autonomous RAG,Eval_6,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_6,Traceability,2
+Query 2,Autonomous RAG,Eval_6,Semantic Consistency,3
+Query 2,Autonomous RAG,Eval_7,Relevance,1
+Query 2,Autonomous RAG,Eval_7,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_7,Traceability,2
+Query 2,Autonomous RAG,Eval_7,Semantic Consistency,3
+Query 2,Autonomous RAG,Eval_8,Relevance,2
+Query 2,Autonomous RAG,Eval_8,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_8,Traceability,2
+Query 2,Autonomous RAG,Eval_8,Semantic Consistency,4
+Query 2,Autonomous RAG,Eval_9,Relevance,2
+Query 2,Autonomous RAG,Eval_9,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_9,Traceability,1
+Query 2,Autonomous RAG,Eval_9,Semantic Consistency,4
+Query 2,Autonomous RAG,Eval_10,Relevance,2
+Query 2,Autonomous RAG,Eval_10,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_10,Traceability,1
+Query 2,Autonomous RAG,Eval_10,Semantic Consistency,4
+Query 2,Autonomous RAG,Eval_11,Relevance,2
+Query 2,Autonomous RAG,Eval_11,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_11,Traceability,1
+Query 2,Autonomous RAG,Eval_11,Semantic Consistency,3
+Query 2,Autonomous RAG,Eval_12,Relevance,1
+Query 2,Autonomous RAG,Eval_12,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_12,Traceability,1
+Query 2,Autonomous RAG,Eval_12,Semantic Consistency,4
+Query 2,Autonomous RAG,Eval_13,Relevance,1
+Query 2,Autonomous RAG,Eval_13,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_13,Traceability,1
+Query 2,Autonomous RAG,Eval_13,Semantic Consistency,3
+Query 2,Autonomous RAG,Eval_14,Relevance,2
+Query 2,Autonomous RAG,Eval_14,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_14,Traceability,2
+Query 2,Autonomous RAG,Eval_14,Semantic Consistency,3
+Query 2,Autonomous RAG,Eval_15,Relevance,1
+Query 2,Autonomous RAG,Eval_15,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_15,Traceability,1
+Query 2,Autonomous RAG,Eval_15,Semantic Consistency,4
+Query 2,Autonomous RAG,Eval_16,Relevance,2
+Query 2,Autonomous RAG,Eval_16,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_16,Traceability,1
+Query 2,Autonomous RAG,Eval_16,Semantic Consistency,3
+Query 2,Autonomous RAG,Eval_17,Relevance,2
+Query 2,Autonomous RAG,Eval_17,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_17,Traceability,1
+Query 2,Autonomous RAG,Eval_17,Semantic Consistency,4
+Query 2,Autonomous RAG,Eval_18,Relevance,1
+Query 2,Autonomous RAG,Eval_18,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_18,Traceability,1
+Query 2,Autonomous RAG,Eval_18,Semantic Consistency,3
+Query 2,Autonomous RAG,Eval_19,Relevance,2
+Query 2,Autonomous RAG,Eval_19,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_19,Traceability,2
+Query 2,Autonomous RAG,Eval_19,Semantic Consistency,4
+Query 2,Autonomous RAG,Eval_20,Relevance,1
+Query 2,Autonomous RAG,Eval_20,Hallucination Risk,1
+Query 2,Autonomous RAG,Eval_20,Traceability,1
+Query 2,Autonomous RAG,Eval_20,Semantic Consistency,4
+Query 2,At Source RAG,Eval_1,Relevance,2
+Query 2,At Source RAG,Eval_1,Hallucination Risk,1
+Query 2,At Source RAG,Eval_1,Traceability,1
+Query 2,At Source RAG,Eval_1,Semantic Consistency,4
+Query 2,At Source RAG,Eval_2,Relevance,2
+Query 2,At Source RAG,Eval_2,Hallucination Risk,1
+Query 2,At Source RAG,Eval_2,Traceability,1
+Query 2,At Source RAG,Eval_2,Semantic Consistency,3
+Query 2,At Source RAG,Eval_3,Relevance,2
+Query 2,At Source RAG,Eval_3,Hallucination Risk,1
+Query 2,At Source RAG,Eval_3,Traceability,1
+Query 2,At Source RAG,Eval_3,Semantic Consistency,4
+Query 2,At Source RAG,Eval_4,Relevance,1
+Query 2,At Source RAG,Eval_4,Hallucination Risk,1
+Query 2,At Source RAG,Eval_4,Traceability,1
+Query 2,At Source RAG,Eval_4,Semantic Consistency,3
+Query 2,At Source RAG,Eval_5,Relevance,1
+Query 2,At Source RAG,Eval_5,Hallucination Risk,1
+Query 2,At Source RAG,Eval_5,Traceability,2
+Query 2,At Source RAG,Eval_5,Semantic Consistency,3
+Query 2,At Source RAG,Eval_6,Relevance,2
+Query 2,At Source RAG,Eval_6,Hallucination Risk,1
+Query 2,At Source RAG,Eval_6,Traceability,2
+Query 2,At Source RAG,Eval_6,Semantic Consistency,3
+Query 2,At Source RAG,Eval_7,Relevance,2
+Query 2,At Source RAG,Eval_7,Hallucination Risk,1
+Query 2,At Source RAG,Eval_7,Traceability,2
+Query 2,At Source RAG,Eval_7,Semantic Consistency,3
+Query 2,At Source RAG,Eval_8,Relevance,2
+Query 2,At Source RAG,Eval_8,Hallucination Risk,1
+Query 2,At Source RAG,Eval_8,Traceability,2
+Query 2,At Source RAG,Eval_8,Semantic Consistency,3
+Query 2,At Source RAG,Eval_9,Relevance,2
+Query 2,At Source RAG,Eval_9,Hallucination Risk,1
+Query 2,At Source RAG,Eval_9,Traceability,1
+Query 2,At Source RAG,Eval_9,Semantic Consistency,4
+Query 2,At Source RAG,Eval_10,Relevance,1
+Query 2,At Source RAG,Eval_10,Hallucination Risk,1
+Query 2,At Source RAG,Eval_10,Traceability,2
+Query 2,At Source RAG,Eval_10,Semantic Consistency,4
+Query 2,At Source RAG,Eval_11,Relevance,2
+Query 2,At Source RAG,Eval_11,Hallucination Risk,1
+Query 2,At Source RAG,Eval_11,Traceability,1
+Query 2,At Source RAG,Eval_11,Semantic Consistency,4
+Query 2,At Source RAG,Eval_12,Relevance,1
+Query 2,At Source RAG,Eval_12,Hallucination Risk,1
+Query 2,At Source RAG,Eval_12,Traceability,2
+Query 2,At Source RAG,Eval_12,Semantic Consistency,4
+Query 2,At Source RAG,Eval_13,Relevance,2
+Query 2,At Source RAG,Eval_13,Hallucination Risk,1
+Query 2,At Source RAG,Eval_13,Traceability,2
+Query 2,At Source RAG,Eval_13,Semantic Consistency,3
+Query 2,At Source RAG,Eval_14,Relevance,2
+Query 2,At Source RAG,Eval_14,Hallucination Risk,1
+Query 2,At Source RAG,Eval_14,Traceability,1
+Query 2,At Source RAG,Eval_14,Semantic Consistency,4
+Query 2,At Source RAG,Eval_15,Relevance,1
+Query 2,At Source RAG,Eval_15,Hallucination Risk,1
+Query 2,At Source RAG,Eval_15,Traceability,2
+Query 2,At Source RAG,Eval_15,Semantic Consistency,3
+Query 2,At Source RAG,Eval_16,Relevance,2
+Query 2,At Source RAG,Eval_16,Hallucination Risk,1
+Query 2,At Source RAG,Eval_16,Traceability,2
+Query 2,At Source RAG,Eval_16,Semantic Consistency,4
+Query 2,At Source RAG,Eval_17,Relevance,2
+Query 2,At Source RAG,Eval_17,Hallucination Risk,1
+Query 2,At Source RAG,Eval_17,Traceability,1
+Query 2,At Source RAG,Eval_17,Semantic Consistency,4
+Query 2,At Source RAG,Eval_18,Relevance,2
+Query 2,At Source RAG,Eval_18,Hallucination Risk,1
+Query 2,At Source RAG,Eval_18,Traceability,1
+Query 2,At Source RAG,Eval_18,Semantic Consistency,3
+Query 2,At Source RAG,Eval_19,Relevance,1
+Query 2,At Source RAG,Eval_19,Hallucination Risk,1
+Query 2,At Source RAG,Eval_19,Traceability,2
+Query 2,At Source RAG,Eval_19,Semantic Consistency,3
+Query 2,At Source RAG,Eval_20,Relevance,2
+Query 2,At Source RAG,Eval_20,Hallucination Risk,1
+Query 2,At Source RAG,Eval_20,Traceability,2
+Query 2,At Source RAG,Eval_20,Semantic Consistency,3
+Query 2,Custodian RAG,Eval_1,Relevance,2
+Query 2,Custodian RAG,Eval_1,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_1,Traceability,1
+Query 2,Custodian RAG,Eval_1,Semantic Consistency,4
+Query 2,Custodian RAG,Eval_2,Relevance,2
+Query 2,Custodian RAG,Eval_2,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_2,Traceability,1
+Query 2,Custodian RAG,Eval_2,Semantic Consistency,3
+Query 2,Custodian RAG,Eval_3,Relevance,1
+Query 2,Custodian RAG,Eval_3,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_3,Traceability,2
+Query 2,Custodian RAG,Eval_3,Semantic Consistency,3
+Query 2,Custodian RAG,Eval_4,Relevance,2
+Query 2,Custodian RAG,Eval_4,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_4,Traceability,1
+Query 2,Custodian RAG,Eval_4,Semantic Consistency,3
+Query 2,Custodian RAG,Eval_5,Relevance,1
+Query 2,Custodian RAG,Eval_5,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_5,Traceability,1
+Query 2,Custodian RAG,Eval_5,Semantic Consistency,4
+Query 2,Custodian RAG,Eval_6,Relevance,2
+Query 2,Custodian RAG,Eval_6,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_6,Traceability,2
+Query 2,Custodian RAG,Eval_6,Semantic Consistency,3
+Query 2,Custodian RAG,Eval_7,Relevance,2
+Query 2,Custodian RAG,Eval_7,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_7,Traceability,1
+Query 2,Custodian RAG,Eval_7,Semantic Consistency,4
+Query 2,Custodian RAG,Eval_8,Relevance,2
+Query 2,Custodian RAG,Eval_8,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_8,Traceability,2
+Query 2,Custodian RAG,Eval_8,Semantic Consistency,4
+Query 2,Custodian RAG,Eval_9,Relevance,2
+Query 2,Custodian RAG,Eval_9,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_9,Traceability,2
+Query 2,Custodian RAG,Eval_9,Semantic Consistency,3
+Query 2,Custodian RAG,Eval_10,Relevance,2
+Query 2,Custodian RAG,Eval_10,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_10,Traceability,2
+Query 2,Custodian RAG,Eval_10,Semantic Consistency,4
+Query 2,Custodian RAG,Eval_11,Relevance,1
+Query 2,Custodian RAG,Eval_11,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_11,Traceability,2
+Query 2,Custodian RAG,Eval_11,Semantic Consistency,3
+Query 2,Custodian RAG,Eval_12,Relevance,1
+Query 2,Custodian RAG,Eval_12,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_12,Traceability,1
+Query 2,Custodian RAG,Eval_12,Semantic Consistency,3
+Query 2,Custodian RAG,Eval_13,Relevance,2
+Query 2,Custodian RAG,Eval_13,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_13,Traceability,2
+Query 2,Custodian RAG,Eval_13,Semantic Consistency,3
+Query 2,Custodian RAG,Eval_14,Relevance,1
+Query 2,Custodian RAG,Eval_14,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_14,Traceability,1
+Query 2,Custodian RAG,Eval_14,Semantic Consistency,3
+Query 2,Custodian RAG,Eval_15,Relevance,1
+Query 2,Custodian RAG,Eval_15,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_15,Traceability,1
+Query 2,Custodian RAG,Eval_15,Semantic Consistency,3
+Query 2,Custodian RAG,Eval_16,Relevance,1
+Query 2,Custodian RAG,Eval_16,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_16,Traceability,1
+Query 2,Custodian RAG,Eval_16,Semantic Consistency,4
+Query 2,Custodian RAG,Eval_17,Relevance,1
+Query 2,Custodian RAG,Eval_17,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_17,Traceability,2
+Query 2,Custodian RAG,Eval_17,Semantic Consistency,3
+Query 2,Custodian RAG,Eval_18,Relevance,2
+Query 2,Custodian RAG,Eval_18,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_18,Traceability,1
+Query 2,Custodian RAG,Eval_18,Semantic Consistency,4
+Query 2,Custodian RAG,Eval_19,Relevance,1
+Query 2,Custodian RAG,Eval_19,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_19,Traceability,2
+Query 2,Custodian RAG,Eval_19,Semantic Consistency,3
+Query 2,Custodian RAG,Eval_20,Relevance,2
+Query 2,Custodian RAG,Eval_20,Hallucination Risk,1
+Query 2,Custodian RAG,Eval_20,Traceability,2
+Query 2,Custodian RAG,Eval_20,Semantic Consistency,4
+Query 2,Guided RAG,Eval_1,Relevance,2
+Query 2,Guided RAG,Eval_1,Hallucination Risk,1
+Query 2,Guided RAG,Eval_1,Traceability,2
+Query 2,Guided RAG,Eval_1,Semantic Consistency,2
+Query 2,Guided RAG,Eval_2,Relevance,1
+Query 2,Guided RAG,Eval_2,Hallucination Risk,1
+Query 2,Guided RAG,Eval_2,Traceability,2
+Query 2,Guided RAG,Eval_2,Semantic Consistency,3
+Query 2,Guided RAG,Eval_3,Relevance,1
+Query 2,Guided RAG,Eval_3,Hallucination Risk,1
+Query 2,Guided RAG,Eval_3,Traceability,1
+Query 2,Guided RAG,Eval_3,Semantic Consistency,3
+Query 2,Guided RAG,Eval_4,Relevance,1
+Query 2,Guided RAG,Eval_4,Hallucination Risk,1
+Query 2,Guided RAG,Eval_4,Traceability,2
+Query 2,Guided RAG,Eval_4,Semantic Consistency,2
+Query 2,Guided RAG,Eval_5,Relevance,2
+Query 2,Guided RAG,Eval_5,Hallucination Risk,1
+Query 2,Guided RAG,Eval_5,Traceability,2
+Query 2,Guided RAG,Eval_5,Semantic Consistency,3
+Query 2,Guided RAG,Eval_6,Relevance,2
+Query 2,Guided RAG,Eval_6,Hallucination Risk,1
+Query 2,Guided RAG,Eval_6,Traceability,2
+Query 2,Guided RAG,Eval_6,Semantic Consistency,3
+Query 2,Guided RAG,Eval_7,Relevance,1
+Query 2,Guided RAG,Eval_7,Hallucination Risk,1
+Query 2,Guided RAG,Eval_7,Traceability,1
+Query 2,Guided RAG,Eval_7,Semantic Consistency,2
+Query 2,Guided RAG,Eval_8,Relevance,2
+Query 2,Guided RAG,Eval_8,Hallucination Risk,1
+Query 2,Guided RAG,Eval_8,Traceability,2
+Query 2,Guided RAG,Eval_8,Semantic Consistency,2
+Query 2,Guided RAG,Eval_9,Relevance,1
+Query 2,Guided RAG,Eval_9,Hallucination Risk,1
+Query 2,Guided RAG,Eval_9,Traceability,2
+Query 2,Guided RAG,Eval_9,Semantic Consistency,3
+Query 2,Guided RAG,Eval_10,Relevance,2
+Query 2,Guided RAG,Eval_10,Hallucination Risk,1
+Query 2,Guided RAG,Eval_10,Traceability,2
+Query 2,Guided RAG,Eval_10,Semantic Consistency,2
+Query 2,Guided RAG,Eval_11,Relevance,2
+Query 2,Guided RAG,Eval_11,Hallucination Risk,1
+Query 2,Guided RAG,Eval_11,Traceability,2
+Query 2,Guided RAG,Eval_11,Semantic Consistency,3
+Query 2,Guided RAG,Eval_12,Relevance,1
+Query 2,Guided RAG,Eval_12,Hallucination Risk,1
+Query 2,Guided RAG,Eval_12,Traceability,1
+Query 2,Guided RAG,Eval_12,Semantic Consistency,2
+Query 2,Guided RAG,Eval_13,Relevance,2
+Query 2,Guided RAG,Eval_13,Hallucination Risk,1
+Query 2,Guided RAG,Eval_13,Traceability,1
+Query 2,Guided RAG,Eval_13,Semantic Consistency,2
+Query 2,Guided RAG,Eval_14,Relevance,1
+Query 2,Guided RAG,Eval_14,Hallucination Risk,1
+Query 2,Guided RAG,Eval_14,Traceability,1
+Query 2,Guided RAG,Eval_14,Semantic Consistency,2
+Query 2,Guided RAG,Eval_15,Relevance,1
+Query 2,Guided RAG,Eval_15,Hallucination Risk,1
+Query 2,Guided RAG,Eval_15,Traceability,1
+Query 2,Guided RAG,Eval_15,Semantic Consistency,2
+Query 2,Guided RAG,Eval_16,Relevance,1
+Query 2,Guided RAG,Eval_16,Hallucination Risk,1
+Query 2,Guided RAG,Eval_16,Traceability,2
+Query 2,Guided RAG,Eval_16,Semantic Consistency,2
+Query 2,Guided RAG,Eval_17,Relevance,2
+Query 2,Guided RAG,Eval_17,Hallucination Risk,1
+Query 2,Guided RAG,Eval_17,Traceability,2
+Query 2,Guided RAG,Eval_17,Semantic Consistency,3
+Query 2,Guided RAG,Eval_18,Relevance,2
+Query 2,Guided RAG,Eval_18,Hallucination Risk,1
+Query 2,Guided RAG,Eval_18,Traceability,2
+Query 2,Guided RAG,Eval_18,Semantic Consistency,3
+Query 2,Guided RAG,Eval_19,Relevance,2
+Query 2,Guided RAG,Eval_19,Hallucination Risk,1
+Query 2,Guided RAG,Eval_19,Traceability,2
+Query 2,Guided RAG,Eval_19,Semantic Consistency,3
+Query 2,Guided RAG,Eval_20,Relevance,1
+Query 2,Guided RAG,Eval_20,Hallucination Risk,1
+Query 2,Guided RAG,Eval_20,Traceability,2
+Query 2,Guided RAG,Eval_20,Semantic Consistency,3
+Query 2,Federated RAG,Eval_1,Relevance,2
+Query 2,Federated RAG,Eval_1,Hallucination Risk,1
+Query 2,Federated RAG,Eval_1,Traceability,1
+Query 2,Federated RAG,Eval_1,Semantic Consistency,3
+Query 2,Federated RAG,Eval_2,Relevance,2
+Query 2,Federated RAG,Eval_2,Hallucination Risk,1
+Query 2,Federated RAG,Eval_2,Traceability,2
+Query 2,Federated RAG,Eval_2,Semantic Consistency,4
+Query 2,Federated RAG,Eval_3,Relevance,1
+Query 2,Federated RAG,Eval_3,Hallucination Risk,1
+Query 2,Federated RAG,Eval_3,Traceability,1
+Query 2,Federated RAG,Eval_3,Semantic Consistency,3
+Query 2,Federated RAG,Eval_4,Relevance,2
+Query 2,Federated RAG,Eval_4,Hallucination Risk,1
+Query 2,Federated RAG,Eval_4,Traceability,1
+Query 2,Federated RAG,Eval_4,Semantic Consistency,3
+Query 2,Federated RAG,Eval_5,Relevance,2
+Query 2,Federated RAG,Eval_5,Hallucination Risk,1
+Query 2,Federated RAG,Eval_5,Traceability,1
+Query 2,Federated RAG,Eval_5,Semantic Consistency,4
+Query 2,Federated RAG,Eval_6,Relevance,2
+Query 2,Federated RAG,Eval_6,Hallucination Risk,1
+Query 2,Federated RAG,Eval_6,Traceability,1
+Query 2,Federated RAG,Eval_6,Semantic Consistency,4
+Query 2,Federated RAG,Eval_7,Relevance,1
+Query 2,Federated RAG,Eval_7,Hallucination Risk,1
+Query 2,Federated RAG,Eval_7,Traceability,2
+Query 2,Federated RAG,Eval_7,Semantic Consistency,4
+Query 2,Federated RAG,Eval_8,Relevance,2
+Query 2,Federated RAG,Eval_8,Hallucination Risk,1
+Query 2,Federated RAG,Eval_8,Traceability,1
+Query 2,Federated RAG,Eval_8,Semantic Consistency,4
+Query 2,Federated RAG,Eval_9,Relevance,2
+Query 2,Federated RAG,Eval_9,Hallucination Risk,1
+Query 2,Federated RAG,Eval_9,Traceability,1
+Query 2,Federated RAG,Eval_9,Semantic Consistency,4
+Query 2,Federated RAG,Eval_10,Relevance,1
+Query 2,Federated RAG,Eval_10,Hallucination Risk,1
+Query 2,Federated RAG,Eval_10,Traceability,1
+Query 2,Federated RAG,Eval_10,Semantic Consistency,3
+Query 2,Federated RAG,Eval_11,Relevance,2
+Query 2,Federated RAG,Eval_11,Hallucination Risk,1
+Query 2,Federated RAG,Eval_11,Traceability,2
+Query 2,Federated RAG,Eval_11,Semantic Consistency,4
+Query 2,Federated RAG,Eval_12,Relevance,1
+Query 2,Federated RAG,Eval_12,Hallucination Risk,1
+Query 2,Federated RAG,Eval_12,Traceability,2
+Query 2,Federated RAG,Eval_12,Semantic Consistency,4
+Query 2,Federated RAG,Eval_13,Relevance,2
+Query 2,Federated RAG,Eval_13,Hallucination Risk,1
+Query 2,Federated RAG,Eval_13,Traceability,2
+Query 2,Federated RAG,Eval_13,Semantic Consistency,4
+Query 2,Federated RAG,Eval_14,Relevance,2
+Query 2,Federated RAG,Eval_14,Hallucination Risk,1
+Query 2,Federated RAG,Eval_14,Traceability,1
+Query 2,Federated RAG,Eval_14,Semantic Consistency,3
+Query 2,Federated RAG,Eval_15,Relevance,2
+Query 2,Federated RAG,Eval_15,Hallucination Risk,1
+Query 2,Federated RAG,Eval_15,Traceability,1
+Query 2,Federated RAG,Eval_15,Semantic Consistency,4
+Query 2,Federated RAG,Eval_16,Relevance,1
+Query 2,Federated RAG,Eval_16,Hallucination Risk,1
+Query 2,Federated RAG,Eval_16,Traceability,1
+Query 2,Federated RAG,Eval_16,Semantic Consistency,3
+Query 2,Federated RAG,Eval_17,Relevance,2
+Query 2,Federated RAG,Eval_17,Hallucination Risk,1
+Query 2,Federated RAG,Eval_17,Traceability,1
+Query 2,Federated RAG,Eval_17,Semantic Consistency,4
+Query 2,Federated RAG,Eval_18,Relevance,1
+Query 2,Federated RAG,Eval_18,Hallucination Risk,1
+Query 2,Federated RAG,Eval_18,Traceability,2
+Query 2,Federated RAG,Eval_18,Semantic Consistency,4
+Query 2,Federated RAG,Eval_19,Relevance,2
+Query 2,Federated RAG,Eval_19,Hallucination Risk,1
+Query 2,Federated RAG,Eval_19,Traceability,1
+Query 2,Federated RAG,Eval_19,Semantic Consistency,4
+Query 2,Federated RAG,Eval_20,Relevance,2
+Query 2,Federated RAG,Eval_20,Hallucination Risk,1
+Query 2,Federated RAG,Eval_20,Traceability,2
+Query 2,Federated RAG,Eval_20,Semantic Consistency,4
+Query 2,Baseline,Eval_1,Relevance,3
+Query 2,Baseline,Eval_1,Hallucination Risk,4
+Query 2,Baseline,Eval_1,Traceability,1
+Query 2,Baseline,Eval_1,Semantic Consistency,4
+Query 2,Baseline,Eval_2,Relevance,3
+Query 2,Baseline,Eval_2,Hallucination Risk,4
+Query 2,Baseline,Eval_2,Traceability,2
+Query 2,Baseline,Eval_2,Semantic Consistency,4
+Query 2,Baseline,Eval_3,Relevance,3
+Query 2,Baseline,Eval_3,Hallucination Risk,4
+Query 2,Baseline,Eval_3,Traceability,1
+Query 2,Baseline,Eval_3,Semantic Consistency,5
+Query 2,Baseline,Eval_4,Relevance,3
+Query 2,Baseline,Eval_4,Hallucination Risk,4
+Query 2,Baseline,Eval_4,Traceability,2
+Query 2,Baseline,Eval_4,Semantic Consistency,4
+Query 2,Baseline,Eval_5,Relevance,4
+Query 2,Baseline,Eval_5,Hallucination Risk,4
+Query 2,Baseline,Eval_5,Traceability,1
+Query 2,Baseline,Eval_5,Semantic Consistency,4
+Query 2,Baseline,Eval_6,Relevance,3
+Query 2,Baseline,Eval_6,Hallucination Risk,3
+Query 2,Baseline,Eval_6,Traceability,2
+Query 2,Baseline,Eval_6,Semantic Consistency,4
+Query 2,Baseline,Eval_7,Relevance,3
+Query 2,Baseline,Eval_7,Hallucination Risk,3
+Query 2,Baseline,Eval_7,Traceability,1
+Query 2,Baseline,Eval_7,Semantic Consistency,4
+Query 2,Baseline,Eval_8,Relevance,4
+Query 2,Baseline,Eval_8,Hallucination Risk,3
+Query 2,Baseline,Eval_8,Traceability,2
+Query 2,Baseline,Eval_8,Semantic Consistency,5
+Query 2,Baseline,Eval_9,Relevance,4
+Query 2,Baseline,Eval_9,Hallucination Risk,3
+Query 2,Baseline,Eval_9,Traceability,1
+Query 2,Baseline,Eval_9,Semantic Consistency,5
+Query 2,Baseline,Eval_10,Relevance,4
+Query 2,Baseline,Eval_10,Hallucination Risk,4
+Query 2,Baseline,Eval_10,Traceability,1
+Query 2,Baseline,Eval_10,Semantic Consistency,5
+Query 2,Baseline,Eval_11,Relevance,3
+Query 2,Baseline,Eval_11,Hallucination Risk,3
+Query 2,Baseline,Eval_11,Traceability,2
+Query 2,Baseline,Eval_11,Semantic Consistency,4
+Query 2,Baseline,Eval_12,Relevance,4
+Query 2,Baseline,Eval_12,Hallucination Risk,3
+Query 2,Baseline,Eval_12,Traceability,2
+Query 2,Baseline,Eval_12,Semantic Consistency,5
+Query 2,Baseline,Eval_13,Relevance,3
+Query 2,Baseline,Eval_13,Hallucination Risk,3
+Query 2,Baseline,Eval_13,Traceability,2
+Query 2,Baseline,Eval_13,Semantic Consistency,4
+Query 2,Baseline,Eval_14,Relevance,3
+Query 2,Baseline,Eval_14,Hallucination Risk,3
+Query 2,Baseline,Eval_14,Traceability,1
+Query 2,Baseline,Eval_14,Semantic Consistency,4
+Query 2,Baseline,Eval_15,Relevance,3
+Query 2,Baseline,Eval_15,Hallucination Risk,3
+Query 2,Baseline,Eval_15,Traceability,2
+Query 2,Baseline,Eval_15,Semantic Consistency,5
+Query 2,Baseline,Eval_16,Relevance,4
+Query 2,Baseline,Eval_16,Hallucination Risk,3
+Query 2,Baseline,Eval_16,Traceability,1
+Query 2,Baseline,Eval_16,Semantic Consistency,4
+Query 2,Baseline,Eval_17,Relevance,4
+Query 2,Baseline,Eval_17,Hallucination Risk,3
+Query 2,Baseline,Eval_17,Traceability,1
+Query 2,Baseline,Eval_17,Semantic Consistency,5
+Query 2,Baseline,Eval_18,Relevance,3
+Query 2,Baseline,Eval_18,Hallucination Risk,4
+Query 2,Baseline,Eval_18,Traceability,1
+Query 2,Baseline,Eval_18,Semantic Consistency,4
+Query 2,Baseline,Eval_19,Relevance,3
+Query 2,Baseline,Eval_19,Hallucination Risk,3
+Query 2,Baseline,Eval_19,Traceability,1
+Query 2,Baseline,Eval_19,Semantic Consistency,4
+Query 2,Baseline,Eval_20,Relevance,3
+Query 2,Baseline,Eval_20,Hallucination Risk,4
+Query 2,Baseline,Eval_20,Traceability,2
+Query 2,Baseline,Eval_20,Semantic Consistency,5
+Query 3,Autonomous RAG,Eval_1,Relevance,1
+Query 3,Autonomous RAG,Eval_1,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_1,Traceability,1
+Query 3,Autonomous RAG,Eval_1,Semantic Consistency,3
+Query 3,Autonomous RAG,Eval_2,Relevance,1
+Query 3,Autonomous RAG,Eval_2,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_2,Traceability,1
+Query 3,Autonomous RAG,Eval_2,Semantic Consistency,3
+Query 3,Autonomous RAG,Eval_3,Relevance,1
+Query 3,Autonomous RAG,Eval_3,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_3,Traceability,1
+Query 3,Autonomous RAG,Eval_3,Semantic Consistency,4
+Query 3,Autonomous RAG,Eval_4,Relevance,2
+Query 3,Autonomous RAG,Eval_4,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_4,Traceability,1
+Query 3,Autonomous RAG,Eval_4,Semantic Consistency,3
+Query 3,Autonomous RAG,Eval_5,Relevance,2
+Query 3,Autonomous RAG,Eval_5,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_5,Traceability,2
+Query 3,Autonomous RAG,Eval_5,Semantic Consistency,4
+Query 3,Autonomous RAG,Eval_6,Relevance,1
+Query 3,Autonomous RAG,Eval_6,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_6,Traceability,2
+Query 3,Autonomous RAG,Eval_6,Semantic Consistency,4
+Query 3,Autonomous RAG,Eval_7,Relevance,2
+Query 3,Autonomous RAG,Eval_7,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_7,Traceability,1
+Query 3,Autonomous RAG,Eval_7,Semantic Consistency,4
+Query 3,Autonomous RAG,Eval_8,Relevance,2
+Query 3,Autonomous RAG,Eval_8,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_8,Traceability,2
+Query 3,Autonomous RAG,Eval_8,Semantic Consistency,4
+Query 3,Autonomous RAG,Eval_9,Relevance,2
+Query 3,Autonomous RAG,Eval_9,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_9,Traceability,1
+Query 3,Autonomous RAG,Eval_9,Semantic Consistency,3
+Query 3,Autonomous RAG,Eval_10,Relevance,1
+Query 3,Autonomous RAG,Eval_10,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_10,Traceability,1
+Query 3,Autonomous RAG,Eval_10,Semantic Consistency,3
+Query 3,Autonomous RAG,Eval_11,Relevance,2
+Query 3,Autonomous RAG,Eval_11,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_11,Traceability,1
+Query 3,Autonomous RAG,Eval_11,Semantic Consistency,4
+Query 3,Autonomous RAG,Eval_12,Relevance,1
+Query 3,Autonomous RAG,Eval_12,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_12,Traceability,2
+Query 3,Autonomous RAG,Eval_12,Semantic Consistency,4
+Query 3,Autonomous RAG,Eval_13,Relevance,2
+Query 3,Autonomous RAG,Eval_13,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_13,Traceability,1
+Query 3,Autonomous RAG,Eval_13,Semantic Consistency,3
+Query 3,Autonomous RAG,Eval_14,Relevance,1
+Query 3,Autonomous RAG,Eval_14,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_14,Traceability,2
+Query 3,Autonomous RAG,Eval_14,Semantic Consistency,3
+Query 3,Autonomous RAG,Eval_15,Relevance,2
+Query 3,Autonomous RAG,Eval_15,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_15,Traceability,2
+Query 3,Autonomous RAG,Eval_15,Semantic Consistency,4
+Query 3,Autonomous RAG,Eval_16,Relevance,2
+Query 3,Autonomous RAG,Eval_16,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_16,Traceability,2
+Query 3,Autonomous RAG,Eval_16,Semantic Consistency,3
+Query 3,Autonomous RAG,Eval_17,Relevance,2
+Query 3,Autonomous RAG,Eval_17,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_17,Traceability,1
+Query 3,Autonomous RAG,Eval_17,Semantic Consistency,4
+Query 3,Autonomous RAG,Eval_18,Relevance,2
+Query 3,Autonomous RAG,Eval_18,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_18,Traceability,2
+Query 3,Autonomous RAG,Eval_18,Semantic Consistency,4
+Query 3,Autonomous RAG,Eval_19,Relevance,2
+Query 3,Autonomous RAG,Eval_19,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_19,Traceability,2
+Query 3,Autonomous RAG,Eval_19,Semantic Consistency,3
+Query 3,Autonomous RAG,Eval_20,Relevance,1
+Query 3,Autonomous RAG,Eval_20,Hallucination Risk,1
+Query 3,Autonomous RAG,Eval_20,Traceability,1
+Query 3,Autonomous RAG,Eval_20,Semantic Consistency,3
+Query 3,At Source RAG,Eval_1,Relevance,2
+Query 3,At Source RAG,Eval_1,Hallucination Risk,1
+Query 3,At Source RAG,Eval_1,Traceability,1
+Query 3,At Source RAG,Eval_1,Semantic Consistency,2
+Query 3,At Source RAG,Eval_2,Relevance,1
+Query 3,At Source RAG,Eval_2,Hallucination Risk,1
+Query 3,At Source RAG,Eval_2,Traceability,2
+Query 3,At Source RAG,Eval_2,Semantic Consistency,2
+Query 3,At Source RAG,Eval_3,Relevance,2
+Query 3,At Source RAG,Eval_3,Hallucination Risk,1
+Query 3,At Source RAG,Eval_3,Traceability,1
+Query 3,At Source RAG,Eval_3,Semantic Consistency,2
+Query 3,At Source RAG,Eval_4,Relevance,2
+Query 3,At Source RAG,Eval_4,Hallucination Risk,1
+Query 3,At Source RAG,Eval_4,Traceability,2
+Query 3,At Source RAG,Eval_4,Semantic Consistency,2
+Query 3,At Source RAG,Eval_5,Relevance,2
+Query 3,At Source RAG,Eval_5,Hallucination Risk,1
+Query 3,At Source RAG,Eval_5,Traceability,2
+Query 3,At Source RAG,Eval_5,Semantic Consistency,2
+Query 3,At Source RAG,Eval_6,Relevance,1
+Query 3,At Source RAG,Eval_6,Hallucination Risk,1
+Query 3,At Source RAG,Eval_6,Traceability,1
+Query 3,At Source RAG,Eval_6,Semantic Consistency,2
+Query 3,At Source RAG,Eval_7,Relevance,1
+Query 3,At Source RAG,Eval_7,Hallucination Risk,1
+Query 3,At Source RAG,Eval_7,Traceability,1
+Query 3,At Source RAG,Eval_7,Semantic Consistency,2
+Query 3,At Source RAG,Eval_8,Relevance,1
+Query 3,At Source RAG,Eval_8,Hallucination Risk,1
+Query 3,At Source RAG,Eval_8,Traceability,1
+Query 3,At Source RAG,Eval_8,Semantic Consistency,3
+Query 3,At Source RAG,Eval_9,Relevance,2
+Query 3,At Source RAG,Eval_9,Hallucination Risk,1
+Query 3,At Source RAG,Eval_9,Traceability,1
+Query 3,At Source RAG,Eval_9,Semantic Consistency,3
+Query 3,At Source RAG,Eval_10,Relevance,2
+Query 3,At Source RAG,Eval_10,Hallucination Risk,1
+Query 3,At Source RAG,Eval_10,Traceability,1
+Query 3,At Source RAG,Eval_10,Semantic Consistency,3
+Query 3,At Source RAG,Eval_11,Relevance,1
+Query 3,At Source RAG,Eval_11,Hallucination Risk,1
+Query 3,At Source RAG,Eval_11,Traceability,2
+Query 3,At Source RAG,Eval_11,Semantic Consistency,2
+Query 3,At Source RAG,Eval_12,Relevance,1
+Query 3,At Source RAG,Eval_12,Hallucination Risk,1
+Query 3,At Source RAG,Eval_12,Traceability,2
+Query 3,At Source RAG,Eval_12,Semantic Consistency,3
+Query 3,At Source RAG,Eval_13,Relevance,2
+Query 3,At Source RAG,Eval_13,Hallucination Risk,1
+Query 3,At Source RAG,Eval_13,Traceability,2
+Query 3,At Source RAG,Eval_13,Semantic Consistency,2
+Query 3,At Source RAG,Eval_14,Relevance,2
+Query 3,At Source RAG,Eval_14,Hallucination Risk,1
+Query 3,At Source RAG,Eval_14,Traceability,2
+Query 3,At Source RAG,Eval_14,Semantic Consistency,2
+Query 3,At Source RAG,Eval_15,Relevance,1
+Query 3,At Source RAG,Eval_15,Hallucination Risk,1
+Query 3,At Source RAG,Eval_15,Traceability,2
+Query 3,At Source RAG,Eval_15,Semantic Consistency,2
+Query 3,At Source RAG,Eval_16,Relevance,1
+Query 3,At Source RAG,Eval_16,Hallucination Risk,1
+Query 3,At Source RAG,Eval_16,Traceability,1
+Query 3,At Source RAG,Eval_16,Semantic Consistency,2
+Query 3,At Source RAG,Eval_17,Relevance,1
+Query 3,At Source RAG,Eval_17,Hallucination Risk,1
+Query 3,At Source RAG,Eval_17,Traceability,1
+Query 3,At Source RAG,Eval_17,Semantic Consistency,2
+Query 3,At Source RAG,Eval_18,Relevance,2
+Query 3,At Source RAG,Eval_18,Hallucination Risk,1
+Query 3,At Source RAG,Eval_18,Traceability,1
+Query 3,At Source RAG,Eval_18,Semantic Consistency,2
+Query 3,At Source RAG,Eval_19,Relevance,1
+Query 3,At Source RAG,Eval_19,Hallucination Risk,1
+Query 3,At Source RAG,Eval_19,Traceability,1
+Query 3,At Source RAG,Eval_19,Semantic Consistency,3
+Query 3,At Source RAG,Eval_20,Relevance,2
+Query 3,At Source RAG,Eval_20,Hallucination Risk,1
+Query 3,At Source RAG,Eval_20,Traceability,2
+Query 3,At Source RAG,Eval_20,Semantic Consistency,3
+Query 3,Custodian RAG,Eval_1,Relevance,5
+Query 3,Custodian RAG,Eval_1,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_1,Traceability,5
+Query 3,Custodian RAG,Eval_1,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_2,Relevance,5
+Query 3,Custodian RAG,Eval_2,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_2,Traceability,5
+Query 3,Custodian RAG,Eval_2,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_3,Relevance,5
+Query 3,Custodian RAG,Eval_3,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_3,Traceability,5
+Query 3,Custodian RAG,Eval_3,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_4,Relevance,5
+Query 3,Custodian RAG,Eval_4,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_4,Traceability,5
+Query 3,Custodian RAG,Eval_4,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_5,Relevance,5
+Query 3,Custodian RAG,Eval_5,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_5,Traceability,5
+Query 3,Custodian RAG,Eval_5,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_6,Relevance,5
+Query 3,Custodian RAG,Eval_6,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_6,Traceability,5
+Query 3,Custodian RAG,Eval_6,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_7,Relevance,5
+Query 3,Custodian RAG,Eval_7,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_7,Traceability,5
+Query 3,Custodian RAG,Eval_7,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_8,Relevance,5
+Query 3,Custodian RAG,Eval_8,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_8,Traceability,5
+Query 3,Custodian RAG,Eval_8,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_9,Relevance,5
+Query 3,Custodian RAG,Eval_9,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_9,Traceability,5
+Query 3,Custodian RAG,Eval_9,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_10,Relevance,5
+Query 3,Custodian RAG,Eval_10,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_10,Traceability,5
+Query 3,Custodian RAG,Eval_10,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_11,Relevance,5
+Query 3,Custodian RAG,Eval_11,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_11,Traceability,5
+Query 3,Custodian RAG,Eval_11,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_12,Relevance,5
+Query 3,Custodian RAG,Eval_12,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_12,Traceability,5
+Query 3,Custodian RAG,Eval_12,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_13,Relevance,5
+Query 3,Custodian RAG,Eval_13,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_13,Traceability,5
+Query 3,Custodian RAG,Eval_13,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_14,Relevance,5
+Query 3,Custodian RAG,Eval_14,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_14,Traceability,5
+Query 3,Custodian RAG,Eval_14,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_15,Relevance,5
+Query 3,Custodian RAG,Eval_15,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_15,Traceability,5
+Query 3,Custodian RAG,Eval_15,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_16,Relevance,5
+Query 3,Custodian RAG,Eval_16,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_16,Traceability,5
+Query 3,Custodian RAG,Eval_16,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_17,Relevance,5
+Query 3,Custodian RAG,Eval_17,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_17,Traceability,5
+Query 3,Custodian RAG,Eval_17,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_18,Relevance,5
+Query 3,Custodian RAG,Eval_18,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_18,Traceability,5
+Query 3,Custodian RAG,Eval_18,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_19,Relevance,5
+Query 3,Custodian RAG,Eval_19,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_19,Traceability,5
+Query 3,Custodian RAG,Eval_19,Semantic Consistency,5
+Query 3,Custodian RAG,Eval_20,Relevance,5
+Query 3,Custodian RAG,Eval_20,Hallucination Risk,1
+Query 3,Custodian RAG,Eval_20,Traceability,5
+Query 3,Custodian RAG,Eval_20,Semantic Consistency,5
+Query 3,Guided RAG,Eval_1,Relevance,4
+Query 3,Guided RAG,Eval_1,Hallucination Risk,1
+Query 3,Guided RAG,Eval_1,Traceability,4
+Query 3,Guided RAG,Eval_1,Semantic Consistency,4
+Query 3,Guided RAG,Eval_2,Relevance,4
+Query 3,Guided RAG,Eval_2,Hallucination Risk,1
+Query 3,Guided RAG,Eval_2,Traceability,5
+Query 3,Guided RAG,Eval_2,Semantic Consistency,4
+Query 3,Guided RAG,Eval_3,Relevance,5
+Query 3,Guided RAG,Eval_3,Hallucination Risk,1
+Query 3,Guided RAG,Eval_3,Traceability,5
+Query 3,Guided RAG,Eval_3,Semantic Consistency,4
+Query 3,Guided RAG,Eval_4,Relevance,5
+Query 3,Guided RAG,Eval_4,Hallucination Risk,1
+Query 3,Guided RAG,Eval_4,Traceability,4
+Query 3,Guided RAG,Eval_4,Semantic Consistency,4
+Query 3,Guided RAG,Eval_5,Relevance,4
+Query 3,Guided RAG,Eval_5,Hallucination Risk,1
+Query 3,Guided RAG,Eval_5,Traceability,5
+Query 3,Guided RAG,Eval_5,Semantic Consistency,4
+Query 3,Guided RAG,Eval_6,Relevance,4
+Query 3,Guided RAG,Eval_6,Hallucination Risk,1
+Query 3,Guided RAG,Eval_6,Traceability,4
+Query 3,Guided RAG,Eval_6,Semantic Consistency,4
+Query 3,Guided RAG,Eval_7,Relevance,4
+Query 3,Guided RAG,Eval_7,Hallucination Risk,1
+Query 3,Guided RAG,Eval_7,Traceability,5
+Query 3,Guided RAG,Eval_7,Semantic Consistency,4
+Query 3,Guided RAG,Eval_8,Relevance,4
+Query 3,Guided RAG,Eval_8,Hallucination Risk,1
+Query 3,Guided RAG,Eval_8,Traceability,4
+Query 3,Guided RAG,Eval_8,Semantic Consistency,4
+Query 3,Guided RAG,Eval_9,Relevance,4
+Query 3,Guided RAG,Eval_9,Hallucination Risk,1
+Query 3,Guided RAG,Eval_9,Traceability,4
+Query 3,Guided RAG,Eval_9,Semantic Consistency,4
+Query 3,Guided RAG,Eval_10,Relevance,5
+Query 3,Guided RAG,Eval_10,Hallucination Risk,1
+Query 3,Guided RAG,Eval_10,Traceability,5
+Query 3,Guided RAG,Eval_10,Semantic Consistency,5
+Query 3,Guided RAG,Eval_11,Relevance,4
+Query 3,Guided RAG,Eval_11,Hallucination Risk,1
+Query 3,Guided RAG,Eval_11,Traceability,4
+Query 3,Guided RAG,Eval_11,Semantic Consistency,5
+Query 3,Guided RAG,Eval_12,Relevance,4
+Query 3,Guided RAG,Eval_12,Hallucination Risk,1
+Query 3,Guided RAG,Eval_12,Traceability,5
+Query 3,Guided RAG,Eval_12,Semantic Consistency,5
+Query 3,Guided RAG,Eval_13,Relevance,4
+Query 3,Guided RAG,Eval_13,Hallucination Risk,1
+Query 3,Guided RAG,Eval_13,Traceability,4
+Query 3,Guided RAG,Eval_13,Semantic Consistency,4
+Query 3,Guided RAG,Eval_14,Relevance,4
+Query 3,Guided RAG,Eval_14,Hallucination Risk,1
+Query 3,Guided RAG,Eval_14,Traceability,5
+Query 3,Guided RAG,Eval_14,Semantic Consistency,4
+Query 3,Guided RAG,Eval_15,Relevance,5
+Query 3,Guided RAG,Eval_15,Hallucination Risk,1
+Query 3,Guided RAG,Eval_15,Traceability,4
+Query 3,Guided RAG,Eval_15,Semantic Consistency,5
+Query 3,Guided RAG,Eval_16,Relevance,4
+Query 3,Guided RAG,Eval_16,Hallucination Risk,1
+Query 3,Guided RAG,Eval_16,Traceability,5
+Query 3,Guided RAG,Eval_16,Semantic Consistency,4
+Query 3,Guided RAG,Eval_17,Relevance,4
+Query 3,Guided RAG,Eval_17,Hallucination Risk,1
+Query 3,Guided RAG,Eval_17,Traceability,5
+Query 3,Guided RAG,Eval_17,Semantic Consistency,5
+Query 3,Guided RAG,Eval_18,Relevance,5
+Query 3,Guided RAG,Eval_18,Hallucination Risk,1
+Query 3,Guided RAG,Eval_18,Traceability,4
+Query 3,Guided RAG,Eval_18,Semantic Consistency,4
+Query 3,Guided RAG,Eval_19,Relevance,5
+Query 3,Guided RAG,Eval_19,Hallucination Risk,1
+Query 3,Guided RAG,Eval_19,Traceability,4
+Query 3,Guided RAG,Eval_19,Semantic Consistency,4
+Query 3,Guided RAG,Eval_20,Relevance,4
+Query 3,Guided RAG,Eval_20,Hallucination Risk,1
+Query 3,Guided RAG,Eval_20,Traceability,4
+Query 3,Guided RAG,Eval_20,Semantic Consistency,5
+Query 3,Federated RAG,Eval_1,Relevance,3
+Query 3,Federated RAG,Eval_1,Hallucination Risk,1
+Query 3,Federated RAG,Eval_1,Traceability,4
+Query 3,Federated RAG,Eval_1,Semantic Consistency,4
+Query 3,Federated RAG,Eval_2,Relevance,3
+Query 3,Federated RAG,Eval_2,Hallucination Risk,1
+Query 3,Federated RAG,Eval_2,Traceability,3
+Query 3,Federated RAG,Eval_2,Semantic Consistency,5
+Query 3,Federated RAG,Eval_3,Relevance,3
+Query 3,Federated RAG,Eval_3,Hallucination Risk,1
+Query 3,Federated RAG,Eval_3,Traceability,3
+Query 3,Federated RAG,Eval_3,Semantic Consistency,5
+Query 3,Federated RAG,Eval_4,Relevance,3
+Query 3,Federated RAG,Eval_4,Hallucination Risk,1
+Query 3,Federated RAG,Eval_4,Traceability,4
+Query 3,Federated RAG,Eval_4,Semantic Consistency,4
+Query 3,Federated RAG,Eval_5,Relevance,3
+Query 3,Federated RAG,Eval_5,Hallucination Risk,1
+Query 3,Federated RAG,Eval_5,Traceability,4
+Query 3,Federated RAG,Eval_5,Semantic Consistency,5
+Query 3,Federated RAG,Eval_6,Relevance,3
+Query 3,Federated RAG,Eval_6,Hallucination Risk,1
+Query 3,Federated RAG,Eval_6,Traceability,3
+Query 3,Federated RAG,Eval_6,Semantic Consistency,5
+Query 3,Federated RAG,Eval_7,Relevance,4
+Query 3,Federated RAG,Eval_7,Hallucination Risk,1
+Query 3,Federated RAG,Eval_7,Traceability,4
+Query 3,Federated RAG,Eval_7,Semantic Consistency,4
+Query 3,Federated RAG,Eval_8,Relevance,4
+Query 3,Federated RAG,Eval_8,Hallucination Risk,1
+Query 3,Federated RAG,Eval_8,Traceability,3
+Query 3,Federated RAG,Eval_8,Semantic Consistency,4
+Query 3,Federated RAG,Eval_9,Relevance,4
+Query 3,Federated RAG,Eval_9,Hallucination Risk,1
+Query 3,Federated RAG,Eval_9,Traceability,3
+Query 3,Federated RAG,Eval_9,Semantic Consistency,4
+Query 3,Federated RAG,Eval_10,Relevance,4
+Query 3,Federated RAG,Eval_10,Hallucination Risk,1
+Query 3,Federated RAG,Eval_10,Traceability,3
+Query 3,Federated RAG,Eval_10,Semantic Consistency,4
+Query 3,Federated RAG,Eval_11,Relevance,4
+Query 3,Federated RAG,Eval_11,Hallucination Risk,1
+Query 3,Federated RAG,Eval_11,Traceability,3
+Query 3,Federated RAG,Eval_11,Semantic Consistency,5
+Query 3,Federated RAG,Eval_12,Relevance,4
+Query 3,Federated RAG,Eval_12,Hallucination Risk,1
+Query 3,Federated RAG,Eval_12,Traceability,3
+Query 3,Federated RAG,Eval_12,Semantic Consistency,5
+Query 3,Federated RAG,Eval_13,Relevance,4
+Query 3,Federated RAG,Eval_13,Hallucination Risk,1
+Query 3,Federated RAG,Eval_13,Traceability,3
+Query 3,Federated RAG,Eval_13,Semantic Consistency,5
+Query 3,Federated RAG,Eval_14,Relevance,3
+Query 3,Federated RAG,Eval_14,Hallucination Risk,1
+Query 3,Federated RAG,Eval_14,Traceability,4
+Query 3,Federated RAG,Eval_14,Semantic Consistency,5
+Query 3,Federated RAG,Eval_15,Relevance,4
+Query 3,Federated RAG,Eval_15,Hallucination Risk,1
+Query 3,Federated RAG,Eval_15,Traceability,3
+Query 3,Federated RAG,Eval_15,Semantic Consistency,4
+Query 3,Federated RAG,Eval_16,Relevance,3
+Query 3,Federated RAG,Eval_16,Hallucination Risk,1
+Query 3,Federated RAG,Eval_16,Traceability,3
+Query 3,Federated RAG,Eval_16,Semantic Consistency,4
+Query 3,Federated RAG,Eval_17,Relevance,3
+Query 3,Federated RAG,Eval_17,Hallucination Risk,1
+Query 3,Federated RAG,Eval_17,Traceability,4
+Query 3,Federated RAG,Eval_17,Semantic Consistency,4
+Query 3,Federated RAG,Eval_18,Relevance,4
+Query 3,Federated RAG,Eval_18,Hallucination Risk,1
+Query 3,Federated RAG,Eval_18,Traceability,3
+Query 3,Federated RAG,Eval_18,Semantic Consistency,4
+Query 3,Federated RAG,Eval_19,Relevance,4
+Query 3,Federated RAG,Eval_19,Hallucination Risk,1
+Query 3,Federated RAG,Eval_19,Traceability,4
+Query 3,Federated RAG,Eval_19,Semantic Consistency,4
+Query 3,Federated RAG,Eval_20,Relevance,3
+Query 3,Federated RAG,Eval_20,Hallucination Risk,1
+Query 3,Federated RAG,Eval_20,Traceability,4
+Query 3,Federated RAG,Eval_20,Semantic Consistency,5
+Query 3,Baseline,Eval_1,Relevance,4
+Query 3,Baseline,Eval_1,Hallucination Risk,3
+Query 3,Baseline,Eval_1,Traceability,2
+Query 3,Baseline,Eval_1,Semantic Consistency,5
+Query 3,Baseline,Eval_2,Relevance,4
+Query 3,Baseline,Eval_2,Hallucination Risk,4
+Query 3,Baseline,Eval_2,Traceability,2
+Query 3,Baseline,Eval_2,Semantic Consistency,5
+Query 3,Baseline,Eval_3,Relevance,5
+Query 3,Baseline,Eval_3,Hallucination Risk,3
+Query 3,Baseline,Eval_3,Traceability,1
+Query 3,Baseline,Eval_3,Semantic Consistency,5
+Query 3,Baseline,Eval_4,Relevance,4
+Query 3,Baseline,Eval_4,Hallucination Risk,4
+Query 3,Baseline,Eval_4,Traceability,2
+Query 3,Baseline,Eval_4,Semantic Consistency,5
+Query 3,Baseline,Eval_5,Relevance,4
+Query 3,Baseline,Eval_5,Hallucination Risk,3
+Query 3,Baseline,Eval_5,Traceability,2
+Query 3,Baseline,Eval_5,Semantic Consistency,5
+Query 3,Baseline,Eval_6,Relevance,5
+Query 3,Baseline,Eval_6,Hallucination Risk,3
+Query 3,Baseline,Eval_6,Traceability,2
+Query 3,Baseline,Eval_6,Semantic Consistency,5
+Query 3,Baseline,Eval_7,Relevance,4
+Query 3,Baseline,Eval_7,Hallucination Risk,4
+Query 3,Baseline,Eval_7,Traceability,2
+Query 3,Baseline,Eval_7,Semantic Consistency,5
+Query 3,Baseline,Eval_8,Relevance,5
+Query 3,Baseline,Eval_8,Hallucination Risk,3
+Query 3,Baseline,Eval_8,Traceability,1
+Query 3,Baseline,Eval_8,Semantic Consistency,5
+Query 3,Baseline,Eval_9,Relevance,4
+Query 3,Baseline,Eval_9,Hallucination Risk,3
+Query 3,Baseline,Eval_9,Traceability,1
+Query 3,Baseline,Eval_9,Semantic Consistency,5
+Query 3,Baseline,Eval_10,Relevance,5
+Query 3,Baseline,Eval_10,Hallucination Risk,4
+Query 3,Baseline,Eval_10,Traceability,1
+Query 3,Baseline,Eval_10,Semantic Consistency,5
+Query 3,Baseline,Eval_11,Relevance,5
+Query 3,Baseline,Eval_11,Hallucination Risk,4
+Query 3,Baseline,Eval_11,Traceability,1
+Query 3,Baseline,Eval_11,Semantic Consistency,5
+Query 3,Baseline,Eval_12,Relevance,5
+Query 3,Baseline,Eval_12,Hallucination Risk,3
+Query 3,Baseline,Eval_12,Traceability,2
+Query 3,Baseline,Eval_12,Semantic Consistency,5
+Query 3,Baseline,Eval_13,Relevance,4
+Query 3,Baseline,Eval_13,Hallucination Risk,3
+Query 3,Baseline,Eval_13,Traceability,1
+Query 3,Baseline,Eval_13,Semantic Consistency,5
+Query 3,Baseline,Eval_14,Relevance,4
+Query 3,Baseline,Eval_14,Hallucination Risk,3
+Query 3,Baseline,Eval_14,Traceability,1
+Query 3,Baseline,Eval_14,Semantic Consistency,5
+Query 3,Baseline,Eval_15,Relevance,5
+Query 3,Baseline,Eval_15,Hallucination Risk,3
+Query 3,Baseline,Eval_15,Traceability,2
+Query 3,Baseline,Eval_15,Semantic Consistency,5
+Query 3,Baseline,Eval_16,Relevance,4
+Query 3,Baseline,Eval_16,Hallucination Risk,3
+Query 3,Baseline,Eval_16,Traceability,1
+Query 3,Baseline,Eval_16,Semantic Consistency,5
+Query 3,Baseline,Eval_17,Relevance,5
+Query 3,Baseline,Eval_17,Hallucination Risk,3
+Query 3,Baseline,Eval_17,Traceability,1
+Query 3,Baseline,Eval_17,Semantic Consistency,5
+Query 3,Baseline,Eval_18,Relevance,5
+Query 3,Baseline,Eval_18,Hallucination Risk,3
+Query 3,Baseline,Eval_18,Traceability,2
+Query 3,Baseline,Eval_18,Semantic Consistency,5
+Query 3,Baseline,Eval_19,Relevance,5
+Query 3,Baseline,Eval_19,Hallucination Risk,3
+Query 3,Baseline,Eval_19,Traceability,2
+Query 3,Baseline,Eval_19,Semantic Consistency,5
+Query 3,Baseline,Eval_20,Relevance,5
+Query 3,Baseline,Eval_20,Hallucination Risk,3
+Query 3,Baseline,Eval_20,Traceability,2
+Query 3,Baseline,Eval_20,Semantic Consistency,5
+Query 4,Autonomous RAG,Eval_1,Relevance,5
+Query 4,Autonomous RAG,Eval_1,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_1,Traceability,5
+Query 4,Autonomous RAG,Eval_1,Semantic Consistency,5
+Query 4,Autonomous RAG,Eval_2,Relevance,5
+Query 4,Autonomous RAG,Eval_2,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_2,Traceability,4
+Query 4,Autonomous RAG,Eval_2,Semantic Consistency,5
+Query 4,Autonomous RAG,Eval_3,Relevance,5
+Query 4,Autonomous RAG,Eval_3,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_3,Traceability,4
+Query 4,Autonomous RAG,Eval_3,Semantic Consistency,5
+Query 4,Autonomous RAG,Eval_4,Relevance,4
+Query 4,Autonomous RAG,Eval_4,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_4,Traceability,5
+Query 4,Autonomous RAG,Eval_4,Semantic Consistency,4
+Query 4,Autonomous RAG,Eval_5,Relevance,5
+Query 4,Autonomous RAG,Eval_5,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_5,Traceability,4
+Query 4,Autonomous RAG,Eval_5,Semantic Consistency,5
+Query 4,Autonomous RAG,Eval_6,Relevance,4
+Query 4,Autonomous RAG,Eval_6,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_6,Traceability,4
+Query 4,Autonomous RAG,Eval_6,Semantic Consistency,5
+Query 4,Autonomous RAG,Eval_7,Relevance,4
+Query 4,Autonomous RAG,Eval_7,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_7,Traceability,4
+Query 4,Autonomous RAG,Eval_7,Semantic Consistency,5
+Query 4,Autonomous RAG,Eval_8,Relevance,5
+Query 4,Autonomous RAG,Eval_8,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_8,Traceability,5
+Query 4,Autonomous RAG,Eval_8,Semantic Consistency,5
+Query 4,Autonomous RAG,Eval_9,Relevance,5
+Query 4,Autonomous RAG,Eval_9,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_9,Traceability,5
+Query 4,Autonomous RAG,Eval_9,Semantic Consistency,4
+Query 4,Autonomous RAG,Eval_10,Relevance,5
+Query 4,Autonomous RAG,Eval_10,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_10,Traceability,5
+Query 4,Autonomous RAG,Eval_10,Semantic Consistency,5
+Query 4,Autonomous RAG,Eval_11,Relevance,4
+Query 4,Autonomous RAG,Eval_11,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_11,Traceability,5
+Query 4,Autonomous RAG,Eval_11,Semantic Consistency,5
+Query 4,Autonomous RAG,Eval_12,Relevance,5
+Query 4,Autonomous RAG,Eval_12,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_12,Traceability,4
+Query 4,Autonomous RAG,Eval_12,Semantic Consistency,5
+Query 4,Autonomous RAG,Eval_13,Relevance,5
+Query 4,Autonomous RAG,Eval_13,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_13,Traceability,4
+Query 4,Autonomous RAG,Eval_13,Semantic Consistency,5
+Query 4,Autonomous RAG,Eval_14,Relevance,4
+Query 4,Autonomous RAG,Eval_14,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_14,Traceability,5
+Query 4,Autonomous RAG,Eval_14,Semantic Consistency,5
+Query 4,Autonomous RAG,Eval_15,Relevance,5
+Query 4,Autonomous RAG,Eval_15,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_15,Traceability,5
+Query 4,Autonomous RAG,Eval_15,Semantic Consistency,5
+Query 4,Autonomous RAG,Eval_16,Relevance,4
+Query 4,Autonomous RAG,Eval_16,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_16,Traceability,5
+Query 4,Autonomous RAG,Eval_16,Semantic Consistency,4
+Query 4,Autonomous RAG,Eval_17,Relevance,4
+Query 4,Autonomous RAG,Eval_17,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_17,Traceability,4
+Query 4,Autonomous RAG,Eval_17,Semantic Consistency,4
+Query 4,Autonomous RAG,Eval_18,Relevance,5
+Query 4,Autonomous RAG,Eval_18,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_18,Traceability,4
+Query 4,Autonomous RAG,Eval_18,Semantic Consistency,4
+Query 4,Autonomous RAG,Eval_19,Relevance,4
+Query 4,Autonomous RAG,Eval_19,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_19,Traceability,4
+Query 4,Autonomous RAG,Eval_19,Semantic Consistency,4
+Query 4,Autonomous RAG,Eval_20,Relevance,4
+Query 4,Autonomous RAG,Eval_20,Hallucination Risk,1
+Query 4,Autonomous RAG,Eval_20,Traceability,5
+Query 4,Autonomous RAG,Eval_20,Semantic Consistency,4
+Query 4,At Source RAG,Eval_1,Relevance,5
+Query 4,At Source RAG,Eval_1,Hallucination Risk,1
+Query 4,At Source RAG,Eval_1,Traceability,4
+Query 4,At Source RAG,Eval_1,Semantic Consistency,4
+Query 4,At Source RAG,Eval_2,Relevance,5
+Query 4,At Source RAG,Eval_2,Hallucination Risk,1
+Query 4,At Source RAG,Eval_2,Traceability,4
+Query 4,At Source RAG,Eval_2,Semantic Consistency,5
+Query 4,At Source RAG,Eval_3,Relevance,5
+Query 4,At Source RAG,Eval_3,Hallucination Risk,1
+Query 4,At Source RAG,Eval_3,Traceability,4
+Query 4,At Source RAG,Eval_3,Semantic Consistency,5
+Query 4,At Source RAG,Eval_4,Relevance,5
+Query 4,At Source RAG,Eval_4,Hallucination Risk,1
+Query 4,At Source RAG,Eval_4,Traceability,4
+Query 4,At Source RAG,Eval_4,Semantic Consistency,4
+Query 4,At Source RAG,Eval_5,Relevance,5
+Query 4,At Source RAG,Eval_5,Hallucination Risk,1
+Query 4,At Source RAG,Eval_5,Traceability,5
+Query 4,At Source RAG,Eval_5,Semantic Consistency,5
+Query 4,At Source RAG,Eval_6,Relevance,4
+Query 4,At Source RAG,Eval_6,Hallucination Risk,1
+Query 4,At Source RAG,Eval_6,Traceability,4
+Query 4,At Source RAG,Eval_6,Semantic Consistency,4
+Query 4,At Source RAG,Eval_7,Relevance,4
+Query 4,At Source RAG,Eval_7,Hallucination Risk,1
+Query 4,At Source RAG,Eval_7,Traceability,4
+Query 4,At Source RAG,Eval_7,Semantic Consistency,4
+Query 4,At Source RAG,Eval_8,Relevance,4
+Query 4,At Source RAG,Eval_8,Hallucination Risk,1
+Query 4,At Source RAG,Eval_8,Traceability,4
+Query 4,At Source RAG,Eval_8,Semantic Consistency,5
+Query 4,At Source RAG,Eval_9,Relevance,5
+Query 4,At Source RAG,Eval_9,Hallucination Risk,1
+Query 4,At Source RAG,Eval_9,Traceability,4
+Query 4,At Source RAG,Eval_9,Semantic Consistency,5
+Query 4,At Source RAG,Eval_10,Relevance,4
+Query 4,At Source RAG,Eval_10,Hallucination Risk,1
+Query 4,At Source RAG,Eval_10,Traceability,5
+Query 4,At Source RAG,Eval_10,Semantic Consistency,5
+Query 4,At Source RAG,Eval_11,Relevance,4
+Query 4,At Source RAG,Eval_11,Hallucination Risk,1
+Query 4,At Source RAG,Eval_11,Traceability,5
+Query 4,At Source RAG,Eval_11,Semantic Consistency,4
+Query 4,At Source RAG,Eval_12,Relevance,5
+Query 4,At Source RAG,Eval_12,Hallucination Risk,1
+Query 4,At Source RAG,Eval_12,Traceability,4
+Query 4,At Source RAG,Eval_12,Semantic Consistency,4
+Query 4,At Source RAG,Eval_13,Relevance,4
+Query 4,At Source RAG,Eval_13,Hallucination Risk,1
+Query 4,At Source RAG,Eval_13,Traceability,4
+Query 4,At Source RAG,Eval_13,Semantic Consistency,4
+Query 4,At Source RAG,Eval_14,Relevance,4
+Query 4,At Source RAG,Eval_14,Hallucination Risk,1
+Query 4,At Source RAG,Eval_14,Traceability,5
+Query 4,At Source RAG,Eval_14,Semantic Consistency,5
+Query 4,At Source RAG,Eval_15,Relevance,5
+Query 4,At Source RAG,Eval_15,Hallucination Risk,1
+Query 4,At Source RAG,Eval_15,Traceability,4
+Query 4,At Source RAG,Eval_15,Semantic Consistency,4
+Query 4,At Source RAG,Eval_16,Relevance,4
+Query 4,At Source RAG,Eval_16,Hallucination Risk,1
+Query 4,At Source RAG,Eval_16,Traceability,5
+Query 4,At Source RAG,Eval_16,Semantic Consistency,4
+Query 4,At Source RAG,Eval_17,Relevance,5
+Query 4,At Source RAG,Eval_17,Hallucination Risk,1
+Query 4,At Source RAG,Eval_17,Traceability,4
+Query 4,At Source RAG,Eval_17,Semantic Consistency,4
+Query 4,At Source RAG,Eval_18,Relevance,5
+Query 4,At Source RAG,Eval_18,Hallucination Risk,1
+Query 4,At Source RAG,Eval_18,Traceability,4
+Query 4,At Source RAG,Eval_18,Semantic Consistency,4
+Query 4,At Source RAG,Eval_19,Relevance,4
+Query 4,At Source RAG,Eval_19,Hallucination Risk,1
+Query 4,At Source RAG,Eval_19,Traceability,5
+Query 4,At Source RAG,Eval_19,Semantic Consistency,4
+Query 4,At Source RAG,Eval_20,Relevance,5
+Query 4,At Source RAG,Eval_20,Hallucination Risk,1
+Query 4,At Source RAG,Eval_20,Traceability,4
+Query 4,At Source RAG,Eval_20,Semantic Consistency,5
+Query 4,Custodian RAG,Eval_1,Relevance,5
+Query 4,Custodian RAG,Eval_1,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_1,Traceability,5
+Query 4,Custodian RAG,Eval_1,Semantic Consistency,4
+Query 4,Custodian RAG,Eval_2,Relevance,4
+Query 4,Custodian RAG,Eval_2,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_2,Traceability,4
+Query 4,Custodian RAG,Eval_2,Semantic Consistency,4
+Query 4,Custodian RAG,Eval_3,Relevance,4
+Query 4,Custodian RAG,Eval_3,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_3,Traceability,5
+Query 4,Custodian RAG,Eval_3,Semantic Consistency,5
+Query 4,Custodian RAG,Eval_4,Relevance,5
+Query 4,Custodian RAG,Eval_4,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_4,Traceability,4
+Query 4,Custodian RAG,Eval_4,Semantic Consistency,4
+Query 4,Custodian RAG,Eval_5,Relevance,5
+Query 4,Custodian RAG,Eval_5,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_5,Traceability,4
+Query 4,Custodian RAG,Eval_5,Semantic Consistency,5
+Query 4,Custodian RAG,Eval_6,Relevance,5
+Query 4,Custodian RAG,Eval_6,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_6,Traceability,5
+Query 4,Custodian RAG,Eval_6,Semantic Consistency,5
+Query 4,Custodian RAG,Eval_7,Relevance,4
+Query 4,Custodian RAG,Eval_7,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_7,Traceability,5
+Query 4,Custodian RAG,Eval_7,Semantic Consistency,4
+Query 4,Custodian RAG,Eval_8,Relevance,5
+Query 4,Custodian RAG,Eval_8,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_8,Traceability,5
+Query 4,Custodian RAG,Eval_8,Semantic Consistency,4
+Query 4,Custodian RAG,Eval_9,Relevance,5
+Query 4,Custodian RAG,Eval_9,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_9,Traceability,5
+Query 4,Custodian RAG,Eval_9,Semantic Consistency,4
+Query 4,Custodian RAG,Eval_10,Relevance,5
+Query 4,Custodian RAG,Eval_10,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_10,Traceability,5
+Query 4,Custodian RAG,Eval_10,Semantic Consistency,4
+Query 4,Custodian RAG,Eval_11,Relevance,5
+Query 4,Custodian RAG,Eval_11,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_11,Traceability,5
+Query 4,Custodian RAG,Eval_11,Semantic Consistency,5
+Query 4,Custodian RAG,Eval_12,Relevance,5
+Query 4,Custodian RAG,Eval_12,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_12,Traceability,4
+Query 4,Custodian RAG,Eval_12,Semantic Consistency,4
+Query 4,Custodian RAG,Eval_13,Relevance,5
+Query 4,Custodian RAG,Eval_13,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_13,Traceability,5
+Query 4,Custodian RAG,Eval_13,Semantic Consistency,4
+Query 4,Custodian RAG,Eval_14,Relevance,4
+Query 4,Custodian RAG,Eval_14,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_14,Traceability,4
+Query 4,Custodian RAG,Eval_14,Semantic Consistency,4
+Query 4,Custodian RAG,Eval_15,Relevance,5
+Query 4,Custodian RAG,Eval_15,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_15,Traceability,4
+Query 4,Custodian RAG,Eval_15,Semantic Consistency,4
+Query 4,Custodian RAG,Eval_16,Relevance,5
+Query 4,Custodian RAG,Eval_16,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_16,Traceability,5
+Query 4,Custodian RAG,Eval_16,Semantic Consistency,4
+Query 4,Custodian RAG,Eval_17,Relevance,4
+Query 4,Custodian RAG,Eval_17,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_17,Traceability,5
+Query 4,Custodian RAG,Eval_17,Semantic Consistency,4
+Query 4,Custodian RAG,Eval_18,Relevance,4
+Query 4,Custodian RAG,Eval_18,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_18,Traceability,5
+Query 4,Custodian RAG,Eval_18,Semantic Consistency,4
+Query 4,Custodian RAG,Eval_19,Relevance,4
+Query 4,Custodian RAG,Eval_19,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_19,Traceability,5
+Query 4,Custodian RAG,Eval_19,Semantic Consistency,4
+Query 4,Custodian RAG,Eval_20,Relevance,5
+Query 4,Custodian RAG,Eval_20,Hallucination Risk,1
+Query 4,Custodian RAG,Eval_20,Traceability,4
+Query 4,Custodian RAG,Eval_20,Semantic Consistency,4
+Query 4,Guided RAG,Eval_1,Relevance,4
+Query 4,Guided RAG,Eval_1,Hallucination Risk,1
+Query 4,Guided RAG,Eval_1,Traceability,5
+Query 4,Guided RAG,Eval_1,Semantic Consistency,4
+Query 4,Guided RAG,Eval_2,Relevance,4
+Query 4,Guided RAG,Eval_2,Hallucination Risk,1
+Query 4,Guided RAG,Eval_2,Traceability,4
+Query 4,Guided RAG,Eval_2,Semantic Consistency,5
+Query 4,Guided RAG,Eval_3,Relevance,4
+Query 4,Guided RAG,Eval_3,Hallucination Risk,1
+Query 4,Guided RAG,Eval_3,Traceability,4
+Query 4,Guided RAG,Eval_3,Semantic Consistency,4
+Query 4,Guided RAG,Eval_4,Relevance,4
+Query 4,Guided RAG,Eval_4,Hallucination Risk,1
+Query 4,Guided RAG,Eval_4,Traceability,5
+Query 4,Guided RAG,Eval_4,Semantic Consistency,5
+Query 4,Guided RAG,Eval_5,Relevance,4
+Query 4,Guided RAG,Eval_5,Hallucination Risk,1
+Query 4,Guided RAG,Eval_5,Traceability,4
+Query 4,Guided RAG,Eval_5,Semantic Consistency,5
+Query 4,Guided RAG,Eval_6,Relevance,4
+Query 4,Guided RAG,Eval_6,Hallucination Risk,1
+Query 4,Guided RAG,Eval_6,Traceability,5
+Query 4,Guided RAG,Eval_6,Semantic Consistency,5
+Query 4,Guided RAG,Eval_7,Relevance,4
+Query 4,Guided RAG,Eval_7,Hallucination Risk,1
+Query 4,Guided RAG,Eval_7,Traceability,4
+Query 4,Guided RAG,Eval_7,Semantic Consistency,4
+Query 4,Guided RAG,Eval_8,Relevance,5
+Query 4,Guided RAG,Eval_8,Hallucination Risk,1
+Query 4,Guided RAG,Eval_8,Traceability,5
+Query 4,Guided RAG,Eval_8,Semantic Consistency,5
+Query 4,Guided RAG,Eval_9,Relevance,4
+Query 4,Guided RAG,Eval_9,Hallucination Risk,1
+Query 4,Guided RAG,Eval_9,Traceability,5
+Query 4,Guided RAG,Eval_9,Semantic Consistency,4
+Query 4,Guided RAG,Eval_10,Relevance,4
+Query 4,Guided RAG,Eval_10,Hallucination Risk,1
+Query 4,Guided RAG,Eval_10,Traceability,4
+Query 4,Guided RAG,Eval_10,Semantic Consistency,4
+Query 4,Guided RAG,Eval_11,Relevance,4
+Query 4,Guided RAG,Eval_11,Hallucination Risk,1
+Query 4,Guided RAG,Eval_11,Traceability,4
+Query 4,Guided RAG,Eval_11,Semantic Consistency,4
+Query 4,Guided RAG,Eval_12,Relevance,4
+Query 4,Guided RAG,Eval_12,Hallucination Risk,1
+Query 4,Guided RAG,Eval_12,Traceability,5
+Query 4,Guided RAG,Eval_12,Semantic Consistency,4
+Query 4,Guided RAG,Eval_13,Relevance,4
+Query 4,Guided RAG,Eval_13,Hallucination Risk,1
+Query 4,Guided RAG,Eval_13,Traceability,5
+Query 4,Guided RAG,Eval_13,Semantic Consistency,4
+Query 4,Guided RAG,Eval_14,Relevance,5
+Query 4,Guided RAG,Eval_14,Hallucination Risk,1
+Query 4,Guided RAG,Eval_14,Traceability,5
+Query 4,Guided RAG,Eval_14,Semantic Consistency,5
+Query 4,Guided RAG,Eval_15,Relevance,5
+Query 4,Guided RAG,Eval_15,Hallucination Risk,1
+Query 4,Guided RAG,Eval_15,Traceability,5
+Query 4,Guided RAG,Eval_15,Semantic Consistency,5
+Query 4,Guided RAG,Eval_16,Relevance,5
+Query 4,Guided RAG,Eval_16,Hallucination Risk,1
+Query 4,Guided RAG,Eval_16,Traceability,5
+Query 4,Guided RAG,Eval_16,Semantic Consistency,4
+Query 4,Guided RAG,Eval_17,Relevance,4
+Query 4,Guided RAG,Eval_17,Hallucination Risk,1
+Query 4,Guided RAG,Eval_17,Traceability,4
+Query 4,Guided RAG,Eval_17,Semantic Consistency,5
+Query 4,Guided RAG,Eval_18,Relevance,4
+Query 4,Guided RAG,Eval_18,Hallucination Risk,1
+Query 4,Guided RAG,Eval_18,Traceability,5
+Query 4,Guided RAG,Eval_18,Semantic Consistency,4
+Query 4,Guided RAG,Eval_19,Relevance,4
+Query 4,Guided RAG,Eval_19,Hallucination Risk,1
+Query 4,Guided RAG,Eval_19,Traceability,4
+Query 4,Guided RAG,Eval_19,Semantic Consistency,4
+Query 4,Guided RAG,Eval_20,Relevance,5
+Query 4,Guided RAG,Eval_20,Hallucination Risk,1
+Query 4,Guided RAG,Eval_20,Traceability,5
+Query 4,Guided RAG,Eval_20,Semantic Consistency,5
+Query 4,Federated RAG,Eval_1,Relevance,4
+Query 4,Federated RAG,Eval_1,Hallucination Risk,1
+Query 4,Federated RAG,Eval_1,Traceability,5
+Query 4,Federated RAG,Eval_1,Semantic Consistency,5
+Query 4,Federated RAG,Eval_2,Relevance,4
+Query 4,Federated RAG,Eval_2,Hallucination Risk,1
+Query 4,Federated RAG,Eval_2,Traceability,4
+Query 4,Federated RAG,Eval_2,Semantic Consistency,5
+Query 4,Federated RAG,Eval_3,Relevance,4
+Query 4,Federated RAG,Eval_3,Hallucination Risk,1
+Query 4,Federated RAG,Eval_3,Traceability,4
+Query 4,Federated RAG,Eval_3,Semantic Consistency,4
+Query 4,Federated RAG,Eval_4,Relevance,5
+Query 4,Federated RAG,Eval_4,Hallucination Risk,1
+Query 4,Federated RAG,Eval_4,Traceability,5
+Query 4,Federated RAG,Eval_4,Semantic Consistency,4
+Query 4,Federated RAG,Eval_5,Relevance,4
+Query 4,Federated RAG,Eval_5,Hallucination Risk,1
+Query 4,Federated RAG,Eval_5,Traceability,4
+Query 4,Federated RAG,Eval_5,Semantic Consistency,4
+Query 4,Federated RAG,Eval_6,Relevance,5
+Query 4,Federated RAG,Eval_6,Hallucination Risk,1
+Query 4,Federated RAG,Eval_6,Traceability,4
+Query 4,Federated RAG,Eval_6,Semantic Consistency,4
+Query 4,Federated RAG,Eval_7,Relevance,4
+Query 4,Federated RAG,Eval_7,Hallucination Risk,1
+Query 4,Federated RAG,Eval_7,Traceability,4
+Query 4,Federated RAG,Eval_7,Semantic Consistency,5
+Query 4,Federated RAG,Eval_8,Relevance,4
+Query 4,Federated RAG,Eval_8,Hallucination Risk,1
+Query 4,Federated RAG,Eval_8,Traceability,5
+Query 4,Federated RAG,Eval_8,Semantic Consistency,4
+Query 4,Federated RAG,Eval_9,Relevance,5
+Query 4,Federated RAG,Eval_9,Hallucination Risk,1
+Query 4,Federated RAG,Eval_9,Traceability,5
+Query 4,Federated RAG,Eval_9,Semantic Consistency,5
+Query 4,Federated RAG,Eval_10,Relevance,4
+Query 4,Federated RAG,Eval_10,Hallucination Risk,1
+Query 4,Federated RAG,Eval_10,Traceability,4
+Query 4,Federated RAG,Eval_10,Semantic Consistency,5
+Query 4,Federated RAG,Eval_11,Relevance,4
+Query 4,Federated RAG,Eval_11,Hallucination Risk,1
+Query 4,Federated RAG,Eval_11,Traceability,5
+Query 4,Federated RAG,Eval_11,Semantic Consistency,4
+Query 4,Federated RAG,Eval_12,Relevance,4
+Query 4,Federated RAG,Eval_12,Hallucination Risk,1
+Query 4,Federated RAG,Eval_12,Traceability,4
+Query 4,Federated RAG,Eval_12,Semantic Consistency,5
+Query 4,Federated RAG,Eval_13,Relevance,5
+Query 4,Federated RAG,Eval_13,Hallucination Risk,1
+Query 4,Federated RAG,Eval_13,Traceability,4
+Query 4,Federated RAG,Eval_13,Semantic Consistency,4
+Query 4,Federated RAG,Eval_14,Relevance,4
+Query 4,Federated RAG,Eval_14,Hallucination Risk,1
+Query 4,Federated RAG,Eval_14,Traceability,5
+Query 4,Federated RAG,Eval_14,Semantic Consistency,4
+Query 4,Federated RAG,Eval_15,Relevance,5
+Query 4,Federated RAG,Eval_15,Hallucination Risk,1
+Query 4,Federated RAG,Eval_15,Traceability,4
+Query 4,Federated RAG,Eval_15,Semantic Consistency,4
+Query 4,Federated RAG,Eval_16,Relevance,4
+Query 4,Federated RAG,Eval_16,Hallucination Risk,1
+Query 4,Federated RAG,Eval_16,Traceability,4
+Query 4,Federated RAG,Eval_16,Semantic Consistency,5
+Query 4,Federated RAG,Eval_17,Relevance,5
+Query 4,Federated RAG,Eval_17,Hallucination Risk,1
+Query 4,Federated RAG,Eval_17,Traceability,4
+Query 4,Federated RAG,Eval_17,Semantic Consistency,5
+Query 4,Federated RAG,Eval_18,Relevance,5
+Query 4,Federated RAG,Eval_18,Hallucination Risk,1
+Query 4,Federated RAG,Eval_18,Traceability,4
+Query 4,Federated RAG,Eval_18,Semantic Consistency,4
+Query 4,Federated RAG,Eval_19,Relevance,4
+Query 4,Federated RAG,Eval_19,Hallucination Risk,1
+Query 4,Federated RAG,Eval_19,Traceability,5
+Query 4,Federated RAG,Eval_19,Semantic Consistency,4
+Query 4,Federated RAG,Eval_20,Relevance,5
+Query 4,Federated RAG,Eval_20,Hallucination Risk,1
+Query 4,Federated RAG,Eval_20,Traceability,5
+Query 4,Federated RAG,Eval_20,Semantic Consistency,5
+Query 4,Baseline,Eval_1,Relevance,5
+Query 4,Baseline,Eval_1,Hallucination Risk,4
+Query 4,Baseline,Eval_1,Traceability,2
+Query 4,Baseline,Eval_1,Semantic Consistency,5
+Query 4,Baseline,Eval_2,Relevance,4
+Query 4,Baseline,Eval_2,Hallucination Risk,3
+Query 4,Baseline,Eval_2,Traceability,2
+Query 4,Baseline,Eval_2,Semantic Consistency,5
+Query 4,Baseline,Eval_3,Relevance,4
+Query 4,Baseline,Eval_3,Hallucination Risk,3
+Query 4,Baseline,Eval_3,Traceability,1
+Query 4,Baseline,Eval_3,Semantic Consistency,5
+Query 4,Baseline,Eval_4,Relevance,4
+Query 4,Baseline,Eval_4,Hallucination Risk,4
+Query 4,Baseline,Eval_4,Traceability,2
+Query 4,Baseline,Eval_4,Semantic Consistency,5
+Query 4,Baseline,Eval_5,Relevance,4
+Query 4,Baseline,Eval_5,Hallucination Risk,3
+Query 4,Baseline,Eval_5,Traceability,1
+Query 4,Baseline,Eval_5,Semantic Consistency,5
+Query 4,Baseline,Eval_6,Relevance,5
+Query 4,Baseline,Eval_6,Hallucination Risk,4
+Query 4,Baseline,Eval_6,Traceability,2
+Query 4,Baseline,Eval_6,Semantic Consistency,5
+Query 4,Baseline,Eval_7,Relevance,4
+Query 4,Baseline,Eval_7,Hallucination Risk,3
+Query 4,Baseline,Eval_7,Traceability,2
+Query 4,Baseline,Eval_7,Semantic Consistency,5
+Query 4,Baseline,Eval_8,Relevance,4
+Query 4,Baseline,Eval_8,Hallucination Risk,4
+Query 4,Baseline,Eval_8,Traceability,2
+Query 4,Baseline,Eval_8,Semantic Consistency,5
+Query 4,Baseline,Eval_9,Relevance,4
+Query 4,Baseline,Eval_9,Hallucination Risk,4
+Query 4,Baseline,Eval_9,Traceability,2
+Query 4,Baseline,Eval_9,Semantic Consistency,5
+Query 4,Baseline,Eval_10,Relevance,5
+Query 4,Baseline,Eval_10,Hallucination Risk,4
+Query 4,Baseline,Eval_10,Traceability,2
+Query 4,Baseline,Eval_10,Semantic Consistency,5
+Query 4,Baseline,Eval_11,Relevance,4
+Query 4,Baseline,Eval_11,Hallucination Risk,4
+Query 4,Baseline,Eval_11,Traceability,2
+Query 4,Baseline,Eval_11,Semantic Consistency,5
+Query 4,Baseline,Eval_12,Relevance,4
+Query 4,Baseline,Eval_12,Hallucination Risk,4
+Query 4,Baseline,Eval_12,Traceability,1
+Query 4,Baseline,Eval_12,Semantic Consistency,5
+Query 4,Baseline,Eval_13,Relevance,4
+Query 4,Baseline,Eval_13,Hallucination Risk,4
+Query 4,Baseline,Eval_13,Traceability,2
+Query 4,Baseline,Eval_13,Semantic Consistency,5
+Query 4,Baseline,Eval_14,Relevance,5
+Query 4,Baseline,Eval_14,Hallucination Risk,4
+Query 4,Baseline,Eval_14,Traceability,2
+Query 4,Baseline,Eval_14,Semantic Consistency,5
+Query 4,Baseline,Eval_15,Relevance,4
+Query 4,Baseline,Eval_15,Hallucination Risk,4
+Query 4,Baseline,Eval_15,Traceability,1
+Query 4,Baseline,Eval_15,Semantic Consistency,5
+Query 4,Baseline,Eval_16,Relevance,4
+Query 4,Baseline,Eval_16,Hallucination Risk,3
+Query 4,Baseline,Eval_16,Traceability,2
+Query 4,Baseline,Eval_16,Semantic Consistency,5
+Query 4,Baseline,Eval_17,Relevance,5
+Query 4,Baseline,Eval_17,Hallucination Risk,4
+Query 4,Baseline,Eval_17,Traceability,1
+Query 4,Baseline,Eval_17,Semantic Consistency,5
+Query 4,Baseline,Eval_18,Relevance,4
+Query 4,Baseline,Eval_18,Hallucination Risk,3
+Query 4,Baseline,Eval_18,Traceability,1
+Query 4,Baseline,Eval_18,Semantic Consistency,5
+Query 4,Baseline,Eval_19,Relevance,4
+Query 4,Baseline,Eval_19,Hallucination Risk,3
+Query 4,Baseline,Eval_19,Traceability,1
+Query 4,Baseline,Eval_19,Semantic Consistency,5
+Query 4,Baseline,Eval_20,Relevance,4
+Query 4,Baseline,Eval_20,Hallucination Risk,4
+Query 4,Baseline,Eval_20,Traceability,1
+Query 4,Baseline,Eval_20,Semantic Consistency,5
+Query 5,Autonomous RAG,Eval_1,Relevance,5
+Query 5,Autonomous RAG,Eval_1,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_1,Traceability,4
+Query 5,Autonomous RAG,Eval_1,Semantic Consistency,5
+Query 5,Autonomous RAG,Eval_2,Relevance,5
+Query 5,Autonomous RAG,Eval_2,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_2,Traceability,5
+Query 5,Autonomous RAG,Eval_2,Semantic Consistency,5
+Query 5,Autonomous RAG,Eval_3,Relevance,4
+Query 5,Autonomous RAG,Eval_3,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_3,Traceability,4
+Query 5,Autonomous RAG,Eval_3,Semantic Consistency,4
+Query 5,Autonomous RAG,Eval_4,Relevance,5
+Query 5,Autonomous RAG,Eval_4,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_4,Traceability,4
+Query 5,Autonomous RAG,Eval_4,Semantic Consistency,5
+Query 5,Autonomous RAG,Eval_5,Relevance,4
+Query 5,Autonomous RAG,Eval_5,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_5,Traceability,5
+Query 5,Autonomous RAG,Eval_5,Semantic Consistency,4
+Query 5,Autonomous RAG,Eval_6,Relevance,5
+Query 5,Autonomous RAG,Eval_6,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_6,Traceability,4
+Query 5,Autonomous RAG,Eval_6,Semantic Consistency,4
+Query 5,Autonomous RAG,Eval_7,Relevance,5
+Query 5,Autonomous RAG,Eval_7,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_7,Traceability,5
+Query 5,Autonomous RAG,Eval_7,Semantic Consistency,4
+Query 5,Autonomous RAG,Eval_8,Relevance,4
+Query 5,Autonomous RAG,Eval_8,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_8,Traceability,4
+Query 5,Autonomous RAG,Eval_8,Semantic Consistency,5
+Query 5,Autonomous RAG,Eval_9,Relevance,5
+Query 5,Autonomous RAG,Eval_9,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_9,Traceability,5
+Query 5,Autonomous RAG,Eval_9,Semantic Consistency,5
+Query 5,Autonomous RAG,Eval_10,Relevance,5
+Query 5,Autonomous RAG,Eval_10,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_10,Traceability,4
+Query 5,Autonomous RAG,Eval_10,Semantic Consistency,4
+Query 5,Autonomous RAG,Eval_11,Relevance,4
+Query 5,Autonomous RAG,Eval_11,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_11,Traceability,4
+Query 5,Autonomous RAG,Eval_11,Semantic Consistency,5
+Query 5,Autonomous RAG,Eval_12,Relevance,4
+Query 5,Autonomous RAG,Eval_12,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_12,Traceability,5
+Query 5,Autonomous RAG,Eval_12,Semantic Consistency,5
+Query 5,Autonomous RAG,Eval_13,Relevance,4
+Query 5,Autonomous RAG,Eval_13,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_13,Traceability,5
+Query 5,Autonomous RAG,Eval_13,Semantic Consistency,4
+Query 5,Autonomous RAG,Eval_14,Relevance,4
+Query 5,Autonomous RAG,Eval_14,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_14,Traceability,4
+Query 5,Autonomous RAG,Eval_14,Semantic Consistency,4
+Query 5,Autonomous RAG,Eval_15,Relevance,4
+Query 5,Autonomous RAG,Eval_15,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_15,Traceability,4
+Query 5,Autonomous RAG,Eval_15,Semantic Consistency,4
+Query 5,Autonomous RAG,Eval_16,Relevance,4
+Query 5,Autonomous RAG,Eval_16,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_16,Traceability,5
+Query 5,Autonomous RAG,Eval_16,Semantic Consistency,5
+Query 5,Autonomous RAG,Eval_17,Relevance,5
+Query 5,Autonomous RAG,Eval_17,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_17,Traceability,4
+Query 5,Autonomous RAG,Eval_17,Semantic Consistency,5
+Query 5,Autonomous RAG,Eval_18,Relevance,5
+Query 5,Autonomous RAG,Eval_18,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_18,Traceability,4
+Query 5,Autonomous RAG,Eval_18,Semantic Consistency,5
+Query 5,Autonomous RAG,Eval_19,Relevance,4
+Query 5,Autonomous RAG,Eval_19,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_19,Traceability,5
+Query 5,Autonomous RAG,Eval_19,Semantic Consistency,4
+Query 5,Autonomous RAG,Eval_20,Relevance,5
+Query 5,Autonomous RAG,Eval_20,Hallucination Risk,1
+Query 5,Autonomous RAG,Eval_20,Traceability,4
+Query 5,Autonomous RAG,Eval_20,Semantic Consistency,4
+Query 5,At Source RAG,Eval_1,Relevance,5
+Query 5,At Source RAG,Eval_1,Hallucination Risk,1
+Query 5,At Source RAG,Eval_1,Traceability,5
+Query 5,At Source RAG,Eval_1,Semantic Consistency,5
+Query 5,At Source RAG,Eval_2,Relevance,5
+Query 5,At Source RAG,Eval_2,Hallucination Risk,1
+Query 5,At Source RAG,Eval_2,Traceability,5
+Query 5,At Source RAG,Eval_2,Semantic Consistency,5
+Query 5,At Source RAG,Eval_3,Relevance,5
+Query 5,At Source RAG,Eval_3,Hallucination Risk,1
+Query 5,At Source RAG,Eval_3,Traceability,5
+Query 5,At Source RAG,Eval_3,Semantic Consistency,5
+Query 5,At Source RAG,Eval_4,Relevance,5
+Query 5,At Source RAG,Eval_4,Hallucination Risk,1
+Query 5,At Source RAG,Eval_4,Traceability,5
+Query 5,At Source RAG,Eval_4,Semantic Consistency,5
+Query 5,At Source RAG,Eval_5,Relevance,5
+Query 5,At Source RAG,Eval_5,Hallucination Risk,1
+Query 5,At Source RAG,Eval_5,Traceability,5
+Query 5,At Source RAG,Eval_5,Semantic Consistency,5
+Query 5,At Source RAG,Eval_6,Relevance,5
+Query 5,At Source RAG,Eval_6,Hallucination Risk,1
+Query 5,At Source RAG,Eval_6,Traceability,5
+Query 5,At Source RAG,Eval_6,Semantic Consistency,5
+Query 5,At Source RAG,Eval_7,Relevance,5
+Query 5,At Source RAG,Eval_7,Hallucination Risk,1
+Query 5,At Source RAG,Eval_7,Traceability,5
+Query 5,At Source RAG,Eval_7,Semantic Consistency,5
+Query 5,At Source RAG,Eval_8,Relevance,5
+Query 5,At Source RAG,Eval_8,Hallucination Risk,1
+Query 5,At Source RAG,Eval_8,Traceability,5
+Query 5,At Source RAG,Eval_8,Semantic Consistency,5
+Query 5,At Source RAG,Eval_9,Relevance,5
+Query 5,At Source RAG,Eval_9,Hallucination Risk,1
+Query 5,At Source RAG,Eval_9,Traceability,5
+Query 5,At Source RAG,Eval_9,Semantic Consistency,5
+Query 5,At Source RAG,Eval_10,Relevance,5
+Query 5,At Source RAG,Eval_10,Hallucination Risk,1
+Query 5,At Source RAG,Eval_10,Traceability,5
+Query 5,At Source RAG,Eval_10,Semantic Consistency,5
+Query 5,At Source RAG,Eval_11,Relevance,5
+Query 5,At Source RAG,Eval_11,Hallucination Risk,1
+Query 5,At Source RAG,Eval_11,Traceability,5
+Query 5,At Source RAG,Eval_11,Semantic Consistency,5
+Query 5,At Source RAG,Eval_12,Relevance,5
+Query 5,At Source RAG,Eval_12,Hallucination Risk,1
+Query 5,At Source RAG,Eval_12,Traceability,5
+Query 5,At Source RAG,Eval_12,Semantic Consistency,5
+Query 5,At Source RAG,Eval_13,Relevance,5
+Query 5,At Source RAG,Eval_13,Hallucination Risk,1
+Query 5,At Source RAG,Eval_13,Traceability,5
+Query 5,At Source RAG,Eval_13,Semantic Consistency,5
+Query 5,At Source RAG,Eval_14,Relevance,5
+Query 5,At Source RAG,Eval_14,Hallucination Risk,1
+Query 5,At Source RAG,Eval_14,Traceability,5
+Query 5,At Source RAG,Eval_14,Semantic Consistency,5
+Query 5,At Source RAG,Eval_15,Relevance,5
+Query 5,At Source RAG,Eval_15,Hallucination Risk,1
+Query 5,At Source RAG,Eval_15,Traceability,5
+Query 5,At Source RAG,Eval_15,Semantic Consistency,5
+Query 5,At Source RAG,Eval_16,Relevance,5
+Query 5,At Source RAG,Eval_16,Hallucination Risk,1
+Query 5,At Source RAG,Eval_16,Traceability,5
+Query 5,At Source RAG,Eval_16,Semantic Consistency,5
+Query 5,At Source RAG,Eval_17,Relevance,5
+Query 5,At Source RAG,Eval_17,Hallucination Risk,1
+Query 5,At Source RAG,Eval_17,Traceability,5
+Query 5,At Source RAG,Eval_17,Semantic Consistency,5
+Query 5,At Source RAG,Eval_18,Relevance,5
+Query 5,At Source RAG,Eval_18,Hallucination Risk,1
+Query 5,At Source RAG,Eval_18,Traceability,5
+Query 5,At Source RAG,Eval_18,Semantic Consistency,5
+Query 5,At Source RAG,Eval_19,Relevance,5
+Query 5,At Source RAG,Eval_19,Hallucination Risk,1
+Query 5,At Source RAG,Eval_19,Traceability,5
+Query 5,At Source RAG,Eval_19,Semantic Consistency,5
+Query 5,At Source RAG,Eval_20,Relevance,5
+Query 5,At Source RAG,Eval_20,Hallucination Risk,1
+Query 5,At Source RAG,Eval_20,Traceability,5
+Query 5,At Source RAG,Eval_20,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_1,Relevance,5
+Query 5,Custodian RAG,Eval_1,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_1,Traceability,5
+Query 5,Custodian RAG,Eval_1,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_2,Relevance,5
+Query 5,Custodian RAG,Eval_2,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_2,Traceability,5
+Query 5,Custodian RAG,Eval_2,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_3,Relevance,5
+Query 5,Custodian RAG,Eval_3,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_3,Traceability,5
+Query 5,Custodian RAG,Eval_3,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_4,Relevance,5
+Query 5,Custodian RAG,Eval_4,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_4,Traceability,5
+Query 5,Custodian RAG,Eval_4,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_5,Relevance,5
+Query 5,Custodian RAG,Eval_5,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_5,Traceability,5
+Query 5,Custodian RAG,Eval_5,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_6,Relevance,5
+Query 5,Custodian RAG,Eval_6,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_6,Traceability,5
+Query 5,Custodian RAG,Eval_6,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_7,Relevance,5
+Query 5,Custodian RAG,Eval_7,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_7,Traceability,5
+Query 5,Custodian RAG,Eval_7,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_8,Relevance,5
+Query 5,Custodian RAG,Eval_8,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_8,Traceability,5
+Query 5,Custodian RAG,Eval_8,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_9,Relevance,5
+Query 5,Custodian RAG,Eval_9,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_9,Traceability,5
+Query 5,Custodian RAG,Eval_9,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_10,Relevance,5
+Query 5,Custodian RAG,Eval_10,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_10,Traceability,5
+Query 5,Custodian RAG,Eval_10,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_11,Relevance,5
+Query 5,Custodian RAG,Eval_11,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_11,Traceability,5
+Query 5,Custodian RAG,Eval_11,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_12,Relevance,5
+Query 5,Custodian RAG,Eval_12,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_12,Traceability,5
+Query 5,Custodian RAG,Eval_12,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_13,Relevance,5
+Query 5,Custodian RAG,Eval_13,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_13,Traceability,5
+Query 5,Custodian RAG,Eval_13,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_14,Relevance,5
+Query 5,Custodian RAG,Eval_14,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_14,Traceability,5
+Query 5,Custodian RAG,Eval_14,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_15,Relevance,5
+Query 5,Custodian RAG,Eval_15,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_15,Traceability,5
+Query 5,Custodian RAG,Eval_15,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_16,Relevance,5
+Query 5,Custodian RAG,Eval_16,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_16,Traceability,5
+Query 5,Custodian RAG,Eval_16,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_17,Relevance,5
+Query 5,Custodian RAG,Eval_17,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_17,Traceability,5
+Query 5,Custodian RAG,Eval_17,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_18,Relevance,5
+Query 5,Custodian RAG,Eval_18,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_18,Traceability,5
+Query 5,Custodian RAG,Eval_18,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_19,Relevance,5
+Query 5,Custodian RAG,Eval_19,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_19,Traceability,5
+Query 5,Custodian RAG,Eval_19,Semantic Consistency,5
+Query 5,Custodian RAG,Eval_20,Relevance,5
+Query 5,Custodian RAG,Eval_20,Hallucination Risk,1
+Query 5,Custodian RAG,Eval_20,Traceability,5
+Query 5,Custodian RAG,Eval_20,Semantic Consistency,5
+Query 5,Guided RAG,Eval_1,Relevance,5
+Query 5,Guided RAG,Eval_1,Hallucination Risk,1
+Query 5,Guided RAG,Eval_1,Traceability,5
+Query 5,Guided RAG,Eval_1,Semantic Consistency,5
+Query 5,Guided RAG,Eval_2,Relevance,5
+Query 5,Guided RAG,Eval_2,Hallucination Risk,1
+Query 5,Guided RAG,Eval_2,Traceability,5
+Query 5,Guided RAG,Eval_2,Semantic Consistency,5
+Query 5,Guided RAG,Eval_3,Relevance,5
+Query 5,Guided RAG,Eval_3,Hallucination Risk,1
+Query 5,Guided RAG,Eval_3,Traceability,5
+Query 5,Guided RAG,Eval_3,Semantic Consistency,5
+Query 5,Guided RAG,Eval_4,Relevance,5
+Query 5,Guided RAG,Eval_4,Hallucination Risk,1
+Query 5,Guided RAG,Eval_4,Traceability,5
+Query 5,Guided RAG,Eval_4,Semantic Consistency,5
+Query 5,Guided RAG,Eval_5,Relevance,5
+Query 5,Guided RAG,Eval_5,Hallucination Risk,1
+Query 5,Guided RAG,Eval_5,Traceability,5
+Query 5,Guided RAG,Eval_5,Semantic Consistency,5
+Query 5,Guided RAG,Eval_6,Relevance,5
+Query 5,Guided RAG,Eval_6,Hallucination Risk,1
+Query 5,Guided RAG,Eval_6,Traceability,5
+Query 5,Guided RAG,Eval_6,Semantic Consistency,5
+Query 5,Guided RAG,Eval_7,Relevance,5
+Query 5,Guided RAG,Eval_7,Hallucination Risk,1
+Query 5,Guided RAG,Eval_7,Traceability,5
+Query 5,Guided RAG,Eval_7,Semantic Consistency,5
+Query 5,Guided RAG,Eval_8,Relevance,5
+Query 5,Guided RAG,Eval_8,Hallucination Risk,1
+Query 5,Guided RAG,Eval_8,Traceability,5
+Query 5,Guided RAG,Eval_8,Semantic Consistency,5
+Query 5,Guided RAG,Eval_9,Relevance,5
+Query 5,Guided RAG,Eval_9,Hallucination Risk,1
+Query 5,Guided RAG,Eval_9,Traceability,5
+Query 5,Guided RAG,Eval_9,Semantic Consistency,5
+Query 5,Guided RAG,Eval_10,Relevance,5
+Query 5,Guided RAG,Eval_10,Hallucination Risk,1
+Query 5,Guided RAG,Eval_10,Traceability,5
+Query 5,Guided RAG,Eval_10,Semantic Consistency,5
+Query 5,Guided RAG,Eval_11,Relevance,5
+Query 5,Guided RAG,Eval_11,Hallucination Risk,1
+Query 5,Guided RAG,Eval_11,Traceability,5
+Query 5,Guided RAG,Eval_11,Semantic Consistency,5
+Query 5,Guided RAG,Eval_12,Relevance,5
+Query 5,Guided RAG,Eval_12,Hallucination Risk,1
+Query 5,Guided RAG,Eval_12,Traceability,5
+Query 5,Guided RAG,Eval_12,Semantic Consistency,5
+Query 5,Guided RAG,Eval_13,Relevance,5
+Query 5,Guided RAG,Eval_13,Hallucination Risk,1
+Query 5,Guided RAG,Eval_13,Traceability,5
+Query 5,Guided RAG,Eval_13,Semantic Consistency,5
+Query 5,Guided RAG,Eval_14,Relevance,5
+Query 5,Guided RAG,Eval_14,Hallucination Risk,1
+Query 5,Guided RAG,Eval_14,Traceability,5
+Query 5,Guided RAG,Eval_14,Semantic Consistency,5
+Query 5,Guided RAG,Eval_15,Relevance,5
+Query 5,Guided RAG,Eval_15,Hallucination Risk,1
+Query 5,Guided RAG,Eval_15,Traceability,5
+Query 5,Guided RAG,Eval_15,Semantic Consistency,5
+Query 5,Guided RAG,Eval_16,Relevance,5
+Query 5,Guided RAG,Eval_16,Hallucination Risk,1
+Query 5,Guided RAG,Eval_16,Traceability,5
+Query 5,Guided RAG,Eval_16,Semantic Consistency,5
+Query 5,Guided RAG,Eval_17,Relevance,5
+Query 5,Guided RAG,Eval_17,Hallucination Risk,1
+Query 5,Guided RAG,Eval_17,Traceability,5
+Query 5,Guided RAG,Eval_17,Semantic Consistency,5
+Query 5,Guided RAG,Eval_18,Relevance,5
+Query 5,Guided RAG,Eval_18,Hallucination Risk,1
+Query 5,Guided RAG,Eval_18,Traceability,5
+Query 5,Guided RAG,Eval_18,Semantic Consistency,5
+Query 5,Guided RAG,Eval_19,Relevance,5
+Query 5,Guided RAG,Eval_19,Hallucination Risk,1
+Query 5,Guided RAG,Eval_19,Traceability,5
+Query 5,Guided RAG,Eval_19,Semantic Consistency,5
+Query 5,Guided RAG,Eval_20,Relevance,5
+Query 5,Guided RAG,Eval_20,Hallucination Risk,1
+Query 5,Guided RAG,Eval_20,Traceability,5
+Query 5,Guided RAG,Eval_20,Semantic Consistency,5
+Query 5,Federated RAG,Eval_1,Relevance,5
+Query 5,Federated RAG,Eval_1,Hallucination Risk,1
+Query 5,Federated RAG,Eval_1,Traceability,5
+Query 5,Federated RAG,Eval_1,Semantic Consistency,5
+Query 5,Federated RAG,Eval_2,Relevance,5
+Query 5,Federated RAG,Eval_2,Hallucination Risk,1
+Query 5,Federated RAG,Eval_2,Traceability,5
+Query 5,Federated RAG,Eval_2,Semantic Consistency,5
+Query 5,Federated RAG,Eval_3,Relevance,5
+Query 5,Federated RAG,Eval_3,Hallucination Risk,1
+Query 5,Federated RAG,Eval_3,Traceability,5
+Query 5,Federated RAG,Eval_3,Semantic Consistency,5
+Query 5,Federated RAG,Eval_4,Relevance,5
+Query 5,Federated RAG,Eval_4,Hallucination Risk,1
+Query 5,Federated RAG,Eval_4,Traceability,5
+Query 5,Federated RAG,Eval_4,Semantic Consistency,5
+Query 5,Federated RAG,Eval_5,Relevance,5
+Query 5,Federated RAG,Eval_5,Hallucination Risk,1
+Query 5,Federated RAG,Eval_5,Traceability,5
+Query 5,Federated RAG,Eval_5,Semantic Consistency,5
+Query 5,Federated RAG,Eval_6,Relevance,5
+Query 5,Federated RAG,Eval_6,Hallucination Risk,1
+Query 5,Federated RAG,Eval_6,Traceability,5
+Query 5,Federated RAG,Eval_6,Semantic Consistency,5
+Query 5,Federated RAG,Eval_7,Relevance,5
+Query 5,Federated RAG,Eval_7,Hallucination Risk,1
+Query 5,Federated RAG,Eval_7,Traceability,5
+Query 5,Federated RAG,Eval_7,Semantic Consistency,5
+Query 5,Federated RAG,Eval_8,Relevance,5
+Query 5,Federated RAG,Eval_8,Hallucination Risk,1
+Query 5,Federated RAG,Eval_8,Traceability,5
+Query 5,Federated RAG,Eval_8,Semantic Consistency,5
+Query 5,Federated RAG,Eval_9,Relevance,5
+Query 5,Federated RAG,Eval_9,Hallucination Risk,1
+Query 5,Federated RAG,Eval_9,Traceability,5
+Query 5,Federated RAG,Eval_9,Semantic Consistency,5
+Query 5,Federated RAG,Eval_10,Relevance,5
+Query 5,Federated RAG,Eval_10,Hallucination Risk,1
+Query 5,Federated RAG,Eval_10,Traceability,5
+Query 5,Federated RAG,Eval_10,Semantic Consistency,5
+Query 5,Federated RAG,Eval_11,Relevance,5
+Query 5,Federated RAG,Eval_11,Hallucination Risk,1
+Query 5,Federated RAG,Eval_11,Traceability,5
+Query 5,Federated RAG,Eval_11,Semantic Consistency,5
+Query 5,Federated RAG,Eval_12,Relevance,5
+Query 5,Federated RAG,Eval_12,Hallucination Risk,1
+Query 5,Federated RAG,Eval_12,Traceability,5
+Query 5,Federated RAG,Eval_12,Semantic Consistency,5
+Query 5,Federated RAG,Eval_13,Relevance,5
+Query 5,Federated RAG,Eval_13,Hallucination Risk,1
+Query 5,Federated RAG,Eval_13,Traceability,5
+Query 5,Federated RAG,Eval_13,Semantic Consistency,5
+Query 5,Federated RAG,Eval_14,Relevance,5
+Query 5,Federated RAG,Eval_14,Hallucination Risk,1
+Query 5,Federated RAG,Eval_14,Traceability,5
+Query 5,Federated RAG,Eval_14,Semantic Consistency,5
+Query 5,Federated RAG,Eval_15,Relevance,5
+Query 5,Federated RAG,Eval_15,Hallucination Risk,1
+Query 5,Federated RAG,Eval_15,Traceability,5
+Query 5,Federated RAG,Eval_15,Semantic Consistency,5
+Query 5,Federated RAG,Eval_16,Relevance,5
+Query 5,Federated RAG,Eval_16,Hallucination Risk,1
+Query 5,Federated RAG,Eval_16,Traceability,5
+Query 5,Federated RAG,Eval_16,Semantic Consistency,5
+Query 5,Federated RAG,Eval_17,Relevance,5
+Query 5,Federated RAG,Eval_17,Hallucination Risk,1
+Query 5,Federated RAG,Eval_17,Traceability,5
+Query 5,Federated RAG,Eval_17,Semantic Consistency,5
+Query 5,Federated RAG,Eval_18,Relevance,5
+Query 5,Federated RAG,Eval_18,Hallucination Risk,1
+Query 5,Federated RAG,Eval_18,Traceability,5
+Query 5,Federated RAG,Eval_18,Semantic Consistency,5
+Query 5,Federated RAG,Eval_19,Relevance,5
+Query 5,Federated RAG,Eval_19,Hallucination Risk,1
+Query 5,Federated RAG,Eval_19,Traceability,5
+Query 5,Federated RAG,Eval_19,Semantic Consistency,5
+Query 5,Federated RAG,Eval_20,Relevance,5
+Query 5,Federated RAG,Eval_20,Hallucination Risk,1
+Query 5,Federated RAG,Eval_20,Traceability,5
+Query 5,Federated RAG,Eval_20,Semantic Consistency,5
+Query 5,Baseline,Eval_1,Relevance,4
+Query 5,Baseline,Eval_1,Hallucination Risk,3
+Query 5,Baseline,Eval_1,Traceability,2
+Query 5,Baseline,Eval_1,Semantic Consistency,5
+Query 5,Baseline,Eval_2,Relevance,5
+Query 5,Baseline,Eval_2,Hallucination Risk,4
+Query 5,Baseline,Eval_2,Traceability,2
+Query 5,Baseline,Eval_2,Semantic Consistency,5
+Query 5,Baseline,Eval_3,Relevance,4
+Query 5,Baseline,Eval_3,Hallucination Risk,3
+Query 5,Baseline,Eval_3,Traceability,1
+Query 5,Baseline,Eval_3,Semantic Consistency,5
+Query 5,Baseline,Eval_4,Relevance,5
+Query 5,Baseline,Eval_4,Hallucination Risk,3
+Query 5,Baseline,Eval_4,Traceability,1
+Query 5,Baseline,Eval_4,Semantic Consistency,5
+Query 5,Baseline,Eval_5,Relevance,5
+Query 5,Baseline,Eval_5,Hallucination Risk,3
+Query 5,Baseline,Eval_5,Traceability,2
+Query 5,Baseline,Eval_5,Semantic Consistency,5
+Query 5,Baseline,Eval_6,Relevance,5
+Query 5,Baseline,Eval_6,Hallucination Risk,4
+Query 5,Baseline,Eval_6,Traceability,2
+Query 5,Baseline,Eval_6,Semantic Consistency,5
+Query 5,Baseline,Eval_7,Relevance,4
+Query 5,Baseline,Eval_7,Hallucination Risk,3
+Query 5,Baseline,Eval_7,Traceability,1
+Query 5,Baseline,Eval_7,Semantic Consistency,5
+Query 5,Baseline,Eval_8,Relevance,5
+Query 5,Baseline,Eval_8,Hallucination Risk,4
+Query 5,Baseline,Eval_8,Traceability,1
+Query 5,Baseline,Eval_8,Semantic Consistency,5
+Query 5,Baseline,Eval_9,Relevance,5
+Query 5,Baseline,Eval_9,Hallucination Risk,3
+Query 5,Baseline,Eval_9,Traceability,1
+Query 5,Baseline,Eval_9,Semantic Consistency,5
+Query 5,Baseline,Eval_10,Relevance,5
+Query 5,Baseline,Eval_10,Hallucination Risk,4
+Query 5,Baseline,Eval_10,Traceability,1
+Query 5,Baseline,Eval_10,Semantic Consistency,5
+Query 5,Baseline,Eval_11,Relevance,5
+Query 5,Baseline,Eval_11,Hallucination Risk,4
+Query 5,Baseline,Eval_11,Traceability,2
+Query 5,Baseline,Eval_11,Semantic Consistency,5
+Query 5,Baseline,Eval_12,Relevance,4
+Query 5,Baseline,Eval_12,Hallucination Risk,4
+Query 5,Baseline,Eval_12,Traceability,1
+Query 5,Baseline,Eval_12,Semantic Consistency,5
+Query 5,Baseline,Eval_13,Relevance,4
+Query 5,Baseline,Eval_13,Hallucination Risk,3
+Query 5,Baseline,Eval_13,Traceability,2
+Query 5,Baseline,Eval_13,Semantic Consistency,5
+Query 5,Baseline,Eval_14,Relevance,5
+Query 5,Baseline,Eval_14,Hallucination Risk,3
+Query 5,Baseline,Eval_14,Traceability,1
+Query 5,Baseline,Eval_14,Semantic Consistency,5
+Query 5,Baseline,Eval_15,Relevance,5
+Query 5,Baseline,Eval_15,Hallucination Risk,3
+Query 5,Baseline,Eval_15,Traceability,2
+Query 5,Baseline,Eval_15,Semantic Consistency,5
+Query 5,Baseline,Eval_16,Relevance,5
+Query 5,Baseline,Eval_16,Hallucination Risk,3
+Query 5,Baseline,Eval_16,Traceability,2
+Query 5,Baseline,Eval_16,Semantic Consistency,5
+Query 5,Baseline,Eval_17,Relevance,5
+Query 5,Baseline,Eval_17,Hallucination Risk,4
+Query 5,Baseline,Eval_17,Traceability,1
+Query 5,Baseline,Eval_17,Semantic Consistency,5
+Query 5,Baseline,Eval_18,Relevance,4
+Query 5,Baseline,Eval_18,Hallucination Risk,4
+Query 5,Baseline,Eval_18,Traceability,1
+Query 5,Baseline,Eval_18,Semantic Consistency,5
+Query 5,Baseline,Eval_19,Relevance,5
+Query 5,Baseline,Eval_19,Hallucination Risk,4
+Query 5,Baseline,Eval_19,Traceability,1
+Query 5,Baseline,Eval_19,Semantic Consistency,5
+Query 5,Baseline,Eval_20,Relevance,5
+Query 5,Baseline,Eval_20,Hallucination Risk,4
+Query 5,Baseline,Eval_20,Traceability,1
+Query 5,Baseline,Eval_20,Semantic Consistency,5
+Query 6,Autonomous RAG,Eval_1,Relevance,5
+Query 6,Autonomous RAG,Eval_1,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_1,Traceability,5
+Query 6,Autonomous RAG,Eval_1,Semantic Consistency,5
+Query 6,Autonomous RAG,Eval_2,Relevance,5
+Query 6,Autonomous RAG,Eval_2,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_2,Traceability,5
+Query 6,Autonomous RAG,Eval_2,Semantic Consistency,5
+Query 6,Autonomous RAG,Eval_3,Relevance,5
+Query 6,Autonomous RAG,Eval_3,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_3,Traceability,5
+Query 6,Autonomous RAG,Eval_3,Semantic Consistency,5
+Query 6,Autonomous RAG,Eval_4,Relevance,5
+Query 6,Autonomous RAG,Eval_4,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_4,Traceability,5
+Query 6,Autonomous RAG,Eval_4,Semantic Consistency,5
+Query 6,Autonomous RAG,Eval_5,Relevance,5
+Query 6,Autonomous RAG,Eval_5,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_5,Traceability,5
+Query 6,Autonomous RAG,Eval_5,Semantic Consistency,5
+Query 6,Autonomous RAG,Eval_6,Relevance,5
+Query 6,Autonomous RAG,Eval_6,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_6,Traceability,5
+Query 6,Autonomous RAG,Eval_6,Semantic Consistency,4
+Query 6,Autonomous RAG,Eval_7,Relevance,5
+Query 6,Autonomous RAG,Eval_7,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_7,Traceability,5
+Query 6,Autonomous RAG,Eval_7,Semantic Consistency,4
+Query 6,Autonomous RAG,Eval_8,Relevance,5
+Query 6,Autonomous RAG,Eval_8,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_8,Traceability,5
+Query 6,Autonomous RAG,Eval_8,Semantic Consistency,5
+Query 6,Autonomous RAG,Eval_9,Relevance,5
+Query 6,Autonomous RAG,Eval_9,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_9,Traceability,5
+Query 6,Autonomous RAG,Eval_9,Semantic Consistency,4
+Query 6,Autonomous RAG,Eval_10,Relevance,5
+Query 6,Autonomous RAG,Eval_10,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_10,Traceability,5
+Query 6,Autonomous RAG,Eval_10,Semantic Consistency,4
+Query 6,Autonomous RAG,Eval_11,Relevance,5
+Query 6,Autonomous RAG,Eval_11,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_11,Traceability,5
+Query 6,Autonomous RAG,Eval_11,Semantic Consistency,5
+Query 6,Autonomous RAG,Eval_12,Relevance,5
+Query 6,Autonomous RAG,Eval_12,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_12,Traceability,5
+Query 6,Autonomous RAG,Eval_12,Semantic Consistency,5
+Query 6,Autonomous RAG,Eval_13,Relevance,5
+Query 6,Autonomous RAG,Eval_13,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_13,Traceability,5
+Query 6,Autonomous RAG,Eval_13,Semantic Consistency,4
+Query 6,Autonomous RAG,Eval_14,Relevance,5
+Query 6,Autonomous RAG,Eval_14,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_14,Traceability,5
+Query 6,Autonomous RAG,Eval_14,Semantic Consistency,5
+Query 6,Autonomous RAG,Eval_15,Relevance,5
+Query 6,Autonomous RAG,Eval_15,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_15,Traceability,5
+Query 6,Autonomous RAG,Eval_15,Semantic Consistency,4
+Query 6,Autonomous RAG,Eval_16,Relevance,5
+Query 6,Autonomous RAG,Eval_16,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_16,Traceability,5
+Query 6,Autonomous RAG,Eval_16,Semantic Consistency,5
+Query 6,Autonomous RAG,Eval_17,Relevance,5
+Query 6,Autonomous RAG,Eval_17,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_17,Traceability,5
+Query 6,Autonomous RAG,Eval_17,Semantic Consistency,4
+Query 6,Autonomous RAG,Eval_18,Relevance,5
+Query 6,Autonomous RAG,Eval_18,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_18,Traceability,5
+Query 6,Autonomous RAG,Eval_18,Semantic Consistency,5
+Query 6,Autonomous RAG,Eval_19,Relevance,5
+Query 6,Autonomous RAG,Eval_19,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_19,Traceability,5
+Query 6,Autonomous RAG,Eval_19,Semantic Consistency,5
+Query 6,Autonomous RAG,Eval_20,Relevance,5
+Query 6,Autonomous RAG,Eval_20,Hallucination Risk,1
+Query 6,Autonomous RAG,Eval_20,Traceability,5
+Query 6,Autonomous RAG,Eval_20,Semantic Consistency,4
+Query 6,At Source RAG,Eval_1,Relevance,5
+Query 6,At Source RAG,Eval_1,Hallucination Risk,1
+Query 6,At Source RAG,Eval_1,Traceability,5
+Query 6,At Source RAG,Eval_1,Semantic Consistency,4
+Query 6,At Source RAG,Eval_2,Relevance,5
+Query 6,At Source RAG,Eval_2,Hallucination Risk,1
+Query 6,At Source RAG,Eval_2,Traceability,5
+Query 6,At Source RAG,Eval_2,Semantic Consistency,4
+Query 6,At Source RAG,Eval_3,Relevance,5
+Query 6,At Source RAG,Eval_3,Hallucination Risk,1
+Query 6,At Source RAG,Eval_3,Traceability,5
+Query 6,At Source RAG,Eval_3,Semantic Consistency,5
+Query 6,At Source RAG,Eval_4,Relevance,5
+Query 6,At Source RAG,Eval_4,Hallucination Risk,1
+Query 6,At Source RAG,Eval_4,Traceability,5
+Query 6,At Source RAG,Eval_4,Semantic Consistency,4
+Query 6,At Source RAG,Eval_5,Relevance,5
+Query 6,At Source RAG,Eval_5,Hallucination Risk,1
+Query 6,At Source RAG,Eval_5,Traceability,5
+Query 6,At Source RAG,Eval_5,Semantic Consistency,5
+Query 6,At Source RAG,Eval_6,Relevance,5
+Query 6,At Source RAG,Eval_6,Hallucination Risk,1
+Query 6,At Source RAG,Eval_6,Traceability,5
+Query 6,At Source RAG,Eval_6,Semantic Consistency,4
+Query 6,At Source RAG,Eval_7,Relevance,5
+Query 6,At Source RAG,Eval_7,Hallucination Risk,1
+Query 6,At Source RAG,Eval_7,Traceability,5
+Query 6,At Source RAG,Eval_7,Semantic Consistency,4
+Query 6,At Source RAG,Eval_8,Relevance,5
+Query 6,At Source RAG,Eval_8,Hallucination Risk,1
+Query 6,At Source RAG,Eval_8,Traceability,5
+Query 6,At Source RAG,Eval_8,Semantic Consistency,4
+Query 6,At Source RAG,Eval_9,Relevance,5
+Query 6,At Source RAG,Eval_9,Hallucination Risk,1
+Query 6,At Source RAG,Eval_9,Traceability,5
+Query 6,At Source RAG,Eval_9,Semantic Consistency,5
+Query 6,At Source RAG,Eval_10,Relevance,5
+Query 6,At Source RAG,Eval_10,Hallucination Risk,1
+Query 6,At Source RAG,Eval_10,Traceability,5
+Query 6,At Source RAG,Eval_10,Semantic Consistency,4
+Query 6,At Source RAG,Eval_11,Relevance,5
+Query 6,At Source RAG,Eval_11,Hallucination Risk,1
+Query 6,At Source RAG,Eval_11,Traceability,5
+Query 6,At Source RAG,Eval_11,Semantic Consistency,5
+Query 6,At Source RAG,Eval_12,Relevance,5
+Query 6,At Source RAG,Eval_12,Hallucination Risk,1
+Query 6,At Source RAG,Eval_12,Traceability,5
+Query 6,At Source RAG,Eval_12,Semantic Consistency,4
+Query 6,At Source RAG,Eval_13,Relevance,5
+Query 6,At Source RAG,Eval_13,Hallucination Risk,1
+Query 6,At Source RAG,Eval_13,Traceability,5
+Query 6,At Source RAG,Eval_13,Semantic Consistency,4
+Query 6,At Source RAG,Eval_14,Relevance,5
+Query 6,At Source RAG,Eval_14,Hallucination Risk,1
+Query 6,At Source RAG,Eval_14,Traceability,5
+Query 6,At Source RAG,Eval_14,Semantic Consistency,4
+Query 6,At Source RAG,Eval_15,Relevance,5
+Query 6,At Source RAG,Eval_15,Hallucination Risk,1
+Query 6,At Source RAG,Eval_15,Traceability,5
+Query 6,At Source RAG,Eval_15,Semantic Consistency,5
+Query 6,At Source RAG,Eval_16,Relevance,5
+Query 6,At Source RAG,Eval_16,Hallucination Risk,1
+Query 6,At Source RAG,Eval_16,Traceability,5
+Query 6,At Source RAG,Eval_16,Semantic Consistency,4
+Query 6,At Source RAG,Eval_17,Relevance,5
+Query 6,At Source RAG,Eval_17,Hallucination Risk,1
+Query 6,At Source RAG,Eval_17,Traceability,5
+Query 6,At Source RAG,Eval_17,Semantic Consistency,4
+Query 6,At Source RAG,Eval_18,Relevance,5
+Query 6,At Source RAG,Eval_18,Hallucination Risk,1
+Query 6,At Source RAG,Eval_18,Traceability,5
+Query 6,At Source RAG,Eval_18,Semantic Consistency,4
+Query 6,At Source RAG,Eval_19,Relevance,5
+Query 6,At Source RAG,Eval_19,Hallucination Risk,1
+Query 6,At Source RAG,Eval_19,Traceability,5
+Query 6,At Source RAG,Eval_19,Semantic Consistency,5
+Query 6,At Source RAG,Eval_20,Relevance,5
+Query 6,At Source RAG,Eval_20,Hallucination Risk,1
+Query 6,At Source RAG,Eval_20,Traceability,5
+Query 6,At Source RAG,Eval_20,Semantic Consistency,4
+Query 6,Custodian RAG,Eval_1,Relevance,5
+Query 6,Custodian RAG,Eval_1,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_1,Traceability,5
+Query 6,Custodian RAG,Eval_1,Semantic Consistency,5
+Query 6,Custodian RAG,Eval_2,Relevance,5
+Query 6,Custodian RAG,Eval_2,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_2,Traceability,5
+Query 6,Custodian RAG,Eval_2,Semantic Consistency,4
+Query 6,Custodian RAG,Eval_3,Relevance,5
+Query 6,Custodian RAG,Eval_3,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_3,Traceability,5
+Query 6,Custodian RAG,Eval_3,Semantic Consistency,4
+Query 6,Custodian RAG,Eval_4,Relevance,5
+Query 6,Custodian RAG,Eval_4,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_4,Traceability,5
+Query 6,Custodian RAG,Eval_4,Semantic Consistency,5
+Query 6,Custodian RAG,Eval_5,Relevance,5
+Query 6,Custodian RAG,Eval_5,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_5,Traceability,5
+Query 6,Custodian RAG,Eval_5,Semantic Consistency,5
+Query 6,Custodian RAG,Eval_6,Relevance,5
+Query 6,Custodian RAG,Eval_6,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_6,Traceability,5
+Query 6,Custodian RAG,Eval_6,Semantic Consistency,5
+Query 6,Custodian RAG,Eval_7,Relevance,5
+Query 6,Custodian RAG,Eval_7,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_7,Traceability,5
+Query 6,Custodian RAG,Eval_7,Semantic Consistency,5
+Query 6,Custodian RAG,Eval_8,Relevance,5
+Query 6,Custodian RAG,Eval_8,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_8,Traceability,5
+Query 6,Custodian RAG,Eval_8,Semantic Consistency,4
+Query 6,Custodian RAG,Eval_9,Relevance,5
+Query 6,Custodian RAG,Eval_9,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_9,Traceability,5
+Query 6,Custodian RAG,Eval_9,Semantic Consistency,5
+Query 6,Custodian RAG,Eval_10,Relevance,5
+Query 6,Custodian RAG,Eval_10,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_10,Traceability,5
+Query 6,Custodian RAG,Eval_10,Semantic Consistency,4
+Query 6,Custodian RAG,Eval_11,Relevance,5
+Query 6,Custodian RAG,Eval_11,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_11,Traceability,5
+Query 6,Custodian RAG,Eval_11,Semantic Consistency,5
+Query 6,Custodian RAG,Eval_12,Relevance,5
+Query 6,Custodian RAG,Eval_12,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_12,Traceability,5
+Query 6,Custodian RAG,Eval_12,Semantic Consistency,5
+Query 6,Custodian RAG,Eval_13,Relevance,5
+Query 6,Custodian RAG,Eval_13,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_13,Traceability,5
+Query 6,Custodian RAG,Eval_13,Semantic Consistency,4
+Query 6,Custodian RAG,Eval_14,Relevance,5
+Query 6,Custodian RAG,Eval_14,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_14,Traceability,5
+Query 6,Custodian RAG,Eval_14,Semantic Consistency,5
+Query 6,Custodian RAG,Eval_15,Relevance,5
+Query 6,Custodian RAG,Eval_15,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_15,Traceability,5
+Query 6,Custodian RAG,Eval_15,Semantic Consistency,5
+Query 6,Custodian RAG,Eval_16,Relevance,5
+Query 6,Custodian RAG,Eval_16,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_16,Traceability,5
+Query 6,Custodian RAG,Eval_16,Semantic Consistency,4
+Query 6,Custodian RAG,Eval_17,Relevance,5
+Query 6,Custodian RAG,Eval_17,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_17,Traceability,5
+Query 6,Custodian RAG,Eval_17,Semantic Consistency,5
+Query 6,Custodian RAG,Eval_18,Relevance,5
+Query 6,Custodian RAG,Eval_18,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_18,Traceability,5
+Query 6,Custodian RAG,Eval_18,Semantic Consistency,5
+Query 6,Custodian RAG,Eval_19,Relevance,5
+Query 6,Custodian RAG,Eval_19,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_19,Traceability,5
+Query 6,Custodian RAG,Eval_19,Semantic Consistency,4
+Query 6,Custodian RAG,Eval_20,Relevance,5
+Query 6,Custodian RAG,Eval_20,Hallucination Risk,1
+Query 6,Custodian RAG,Eval_20,Traceability,5
+Query 6,Custodian RAG,Eval_20,Semantic Consistency,5
+Query 6,Guided RAG,Eval_1,Relevance,5
+Query 6,Guided RAG,Eval_1,Hallucination Risk,1
+Query 6,Guided RAG,Eval_1,Traceability,5
+Query 6,Guided RAG,Eval_1,Semantic Consistency,4
+Query 6,Guided RAG,Eval_2,Relevance,5
+Query 6,Guided RAG,Eval_2,Hallucination Risk,1
+Query 6,Guided RAG,Eval_2,Traceability,5
+Query 6,Guided RAG,Eval_2,Semantic Consistency,4
+Query 6,Guided RAG,Eval_3,Relevance,5
+Query 6,Guided RAG,Eval_3,Hallucination Risk,1
+Query 6,Guided RAG,Eval_3,Traceability,5
+Query 6,Guided RAG,Eval_3,Semantic Consistency,5
+Query 6,Guided RAG,Eval_4,Relevance,5
+Query 6,Guided RAG,Eval_4,Hallucination Risk,1
+Query 6,Guided RAG,Eval_4,Traceability,5
+Query 6,Guided RAG,Eval_4,Semantic Consistency,5
+Query 6,Guided RAG,Eval_5,Relevance,5
+Query 6,Guided RAG,Eval_5,Hallucination Risk,1
+Query 6,Guided RAG,Eval_5,Traceability,5
+Query 6,Guided RAG,Eval_5,Semantic Consistency,5
+Query 6,Guided RAG,Eval_6,Relevance,5
+Query 6,Guided RAG,Eval_6,Hallucination Risk,1
+Query 6,Guided RAG,Eval_6,Traceability,5
+Query 6,Guided RAG,Eval_6,Semantic Consistency,5
+Query 6,Guided RAG,Eval_7,Relevance,5
+Query 6,Guided RAG,Eval_7,Hallucination Risk,1
+Query 6,Guided RAG,Eval_7,Traceability,5
+Query 6,Guided RAG,Eval_7,Semantic Consistency,5
+Query 6,Guided RAG,Eval_8,Relevance,5
+Query 6,Guided RAG,Eval_8,Hallucination Risk,1
+Query 6,Guided RAG,Eval_8,Traceability,5
+Query 6,Guided RAG,Eval_8,Semantic Consistency,5
+Query 6,Guided RAG,Eval_9,Relevance,5
+Query 6,Guided RAG,Eval_9,Hallucination Risk,1
+Query 6,Guided RAG,Eval_9,Traceability,5
+Query 6,Guided RAG,Eval_9,Semantic Consistency,4
+Query 6,Guided RAG,Eval_10,Relevance,5
+Query 6,Guided RAG,Eval_10,Hallucination Risk,1
+Query 6,Guided RAG,Eval_10,Traceability,5
+Query 6,Guided RAG,Eval_10,Semantic Consistency,5
+Query 6,Guided RAG,Eval_11,Relevance,5
+Query 6,Guided RAG,Eval_11,Hallucination Risk,1
+Query 6,Guided RAG,Eval_11,Traceability,5
+Query 6,Guided RAG,Eval_11,Semantic Consistency,4
+Query 6,Guided RAG,Eval_12,Relevance,5
+Query 6,Guided RAG,Eval_12,Hallucination Risk,1
+Query 6,Guided RAG,Eval_12,Traceability,5
+Query 6,Guided RAG,Eval_12,Semantic Consistency,5
+Query 6,Guided RAG,Eval_13,Relevance,5
+Query 6,Guided RAG,Eval_13,Hallucination Risk,1
+Query 6,Guided RAG,Eval_13,Traceability,5
+Query 6,Guided RAG,Eval_13,Semantic Consistency,5
+Query 6,Guided RAG,Eval_14,Relevance,5
+Query 6,Guided RAG,Eval_14,Hallucination Risk,1
+Query 6,Guided RAG,Eval_14,Traceability,5
+Query 6,Guided RAG,Eval_14,Semantic Consistency,5
+Query 6,Guided RAG,Eval_15,Relevance,5
+Query 6,Guided RAG,Eval_15,Hallucination Risk,1
+Query 6,Guided RAG,Eval_15,Traceability,5
+Query 6,Guided RAG,Eval_15,Semantic Consistency,4
+Query 6,Guided RAG,Eval_16,Relevance,5
+Query 6,Guided RAG,Eval_16,Hallucination Risk,1
+Query 6,Guided RAG,Eval_16,Traceability,5
+Query 6,Guided RAG,Eval_16,Semantic Consistency,5
+Query 6,Guided RAG,Eval_17,Relevance,5
+Query 6,Guided RAG,Eval_17,Hallucination Risk,1
+Query 6,Guided RAG,Eval_17,Traceability,5
+Query 6,Guided RAG,Eval_17,Semantic Consistency,4
+Query 6,Guided RAG,Eval_18,Relevance,5
+Query 6,Guided RAG,Eval_18,Hallucination Risk,1
+Query 6,Guided RAG,Eval_18,Traceability,5
+Query 6,Guided RAG,Eval_18,Semantic Consistency,4
+Query 6,Guided RAG,Eval_19,Relevance,5
+Query 6,Guided RAG,Eval_19,Hallucination Risk,1
+Query 6,Guided RAG,Eval_19,Traceability,5
+Query 6,Guided RAG,Eval_19,Semantic Consistency,5
+Query 6,Guided RAG,Eval_20,Relevance,5
+Query 6,Guided RAG,Eval_20,Hallucination Risk,1
+Query 6,Guided RAG,Eval_20,Traceability,5
+Query 6,Guided RAG,Eval_20,Semantic Consistency,5
+Query 6,Federated RAG,Eval_1,Relevance,5
+Query 6,Federated RAG,Eval_1,Hallucination Risk,1
+Query 6,Federated RAG,Eval_1,Traceability,5
+Query 6,Federated RAG,Eval_1,Semantic Consistency,5
+Query 6,Federated RAG,Eval_2,Relevance,5
+Query 6,Federated RAG,Eval_2,Hallucination Risk,1
+Query 6,Federated RAG,Eval_2,Traceability,5
+Query 6,Federated RAG,Eval_2,Semantic Consistency,5
+Query 6,Federated RAG,Eval_3,Relevance,5
+Query 6,Federated RAG,Eval_3,Hallucination Risk,1
+Query 6,Federated RAG,Eval_3,Traceability,5
+Query 6,Federated RAG,Eval_3,Semantic Consistency,4
+Query 6,Federated RAG,Eval_4,Relevance,5
+Query 6,Federated RAG,Eval_4,Hallucination Risk,1
+Query 6,Federated RAG,Eval_4,Traceability,5
+Query 6,Federated RAG,Eval_4,Semantic Consistency,5
+Query 6,Federated RAG,Eval_5,Relevance,5
+Query 6,Federated RAG,Eval_5,Hallucination Risk,1
+Query 6,Federated RAG,Eval_5,Traceability,5
+Query 6,Federated RAG,Eval_5,Semantic Consistency,4
+Query 6,Federated RAG,Eval_6,Relevance,5
+Query 6,Federated RAG,Eval_6,Hallucination Risk,1
+Query 6,Federated RAG,Eval_6,Traceability,5
+Query 6,Federated RAG,Eval_6,Semantic Consistency,4
+Query 6,Federated RAG,Eval_7,Relevance,5
+Query 6,Federated RAG,Eval_7,Hallucination Risk,1
+Query 6,Federated RAG,Eval_7,Traceability,5
+Query 6,Federated RAG,Eval_7,Semantic Consistency,5
+Query 6,Federated RAG,Eval_8,Relevance,5
+Query 6,Federated RAG,Eval_8,Hallucination Risk,1
+Query 6,Federated RAG,Eval_8,Traceability,5
+Query 6,Federated RAG,Eval_8,Semantic Consistency,5
+Query 6,Federated RAG,Eval_9,Relevance,5
+Query 6,Federated RAG,Eval_9,Hallucination Risk,1
+Query 6,Federated RAG,Eval_9,Traceability,5
+Query 6,Federated RAG,Eval_9,Semantic Consistency,5
+Query 6,Federated RAG,Eval_10,Relevance,5
+Query 6,Federated RAG,Eval_10,Hallucination Risk,1
+Query 6,Federated RAG,Eval_10,Traceability,5
+Query 6,Federated RAG,Eval_10,Semantic Consistency,5
+Query 6,Federated RAG,Eval_11,Relevance,5
+Query 6,Federated RAG,Eval_11,Hallucination Risk,1
+Query 6,Federated RAG,Eval_11,Traceability,5
+Query 6,Federated RAG,Eval_11,Semantic Consistency,4
+Query 6,Federated RAG,Eval_12,Relevance,5
+Query 6,Federated RAG,Eval_12,Hallucination Risk,1
+Query 6,Federated RAG,Eval_12,Traceability,5
+Query 6,Federated RAG,Eval_12,Semantic Consistency,5
+Query 6,Federated RAG,Eval_13,Relevance,5
+Query 6,Federated RAG,Eval_13,Hallucination Risk,1
+Query 6,Federated RAG,Eval_13,Traceability,5
+Query 6,Federated RAG,Eval_13,Semantic Consistency,5
+Query 6,Federated RAG,Eval_14,Relevance,5
+Query 6,Federated RAG,Eval_14,Hallucination Risk,1
+Query 6,Federated RAG,Eval_14,Traceability,5
+Query 6,Federated RAG,Eval_14,Semantic Consistency,5
+Query 6,Federated RAG,Eval_15,Relevance,5
+Query 6,Federated RAG,Eval_15,Hallucination Risk,1
+Query 6,Federated RAG,Eval_15,Traceability,5
+Query 6,Federated RAG,Eval_15,Semantic Consistency,5
+Query 6,Federated RAG,Eval_16,Relevance,5
+Query 6,Federated RAG,Eval_16,Hallucination Risk,1
+Query 6,Federated RAG,Eval_16,Traceability,5
+Query 6,Federated RAG,Eval_16,Semantic Consistency,5
+Query 6,Federated RAG,Eval_17,Relevance,5
+Query 6,Federated RAG,Eval_17,Hallucination Risk,1
+Query 6,Federated RAG,Eval_17,Traceability,5
+Query 6,Federated RAG,Eval_17,Semantic Consistency,5
+Query 6,Federated RAG,Eval_18,Relevance,5
+Query 6,Federated RAG,Eval_18,Hallucination Risk,1
+Query 6,Federated RAG,Eval_18,Traceability,5
+Query 6,Federated RAG,Eval_18,Semantic Consistency,5
+Query 6,Federated RAG,Eval_19,Relevance,5
+Query 6,Federated RAG,Eval_19,Hallucination Risk,1
+Query 6,Federated RAG,Eval_19,Traceability,5
+Query 6,Federated RAG,Eval_19,Semantic Consistency,4
+Query 6,Federated RAG,Eval_20,Relevance,5
+Query 6,Federated RAG,Eval_20,Hallucination Risk,1
+Query 6,Federated RAG,Eval_20,Traceability,5
+Query 6,Federated RAG,Eval_20,Semantic Consistency,4
+Query 6,Baseline,Eval_1,Relevance,3
+Query 6,Baseline,Eval_1,Hallucination Risk,4
+Query 6,Baseline,Eval_1,Traceability,1
+Query 6,Baseline,Eval_1,Semantic Consistency,5
+Query 6,Baseline,Eval_2,Relevance,4
+Query 6,Baseline,Eval_2,Hallucination Risk,4
+Query 6,Baseline,Eval_2,Traceability,1
+Query 6,Baseline,Eval_2,Semantic Consistency,5
+Query 6,Baseline,Eval_3,Relevance,3
+Query 6,Baseline,Eval_3,Hallucination Risk,4
+Query 6,Baseline,Eval_3,Traceability,2
+Query 6,Baseline,Eval_3,Semantic Consistency,5
+Query 6,Baseline,Eval_4,Relevance,3
+Query 6,Baseline,Eval_4,Hallucination Risk,5
+Query 6,Baseline,Eval_4,Traceability,1
+Query 6,Baseline,Eval_4,Semantic Consistency,5
+Query 6,Baseline,Eval_5,Relevance,3
+Query 6,Baseline,Eval_5,Hallucination Risk,5
+Query 6,Baseline,Eval_5,Traceability,1
+Query 6,Baseline,Eval_5,Semantic Consistency,5
+Query 6,Baseline,Eval_6,Relevance,3
+Query 6,Baseline,Eval_6,Hallucination Risk,4
+Query 6,Baseline,Eval_6,Traceability,2
+Query 6,Baseline,Eval_6,Semantic Consistency,5
+Query 6,Baseline,Eval_7,Relevance,4
+Query 6,Baseline,Eval_7,Hallucination Risk,5
+Query 6,Baseline,Eval_7,Traceability,2
+Query 6,Baseline,Eval_7,Semantic Consistency,5
+Query 6,Baseline,Eval_8,Relevance,3
+Query 6,Baseline,Eval_8,Hallucination Risk,5
+Query 6,Baseline,Eval_8,Traceability,2
+Query 6,Baseline,Eval_8,Semantic Consistency,5
+Query 6,Baseline,Eval_9,Relevance,4
+Query 6,Baseline,Eval_9,Hallucination Risk,5
+Query 6,Baseline,Eval_9,Traceability,2
+Query 6,Baseline,Eval_9,Semantic Consistency,5
+Query 6,Baseline,Eval_10,Relevance,4
+Query 6,Baseline,Eval_10,Hallucination Risk,5
+Query 6,Baseline,Eval_10,Traceability,1
+Query 6,Baseline,Eval_10,Semantic Consistency,5
+Query 6,Baseline,Eval_11,Relevance,3
+Query 6,Baseline,Eval_11,Hallucination Risk,5
+Query 6,Baseline,Eval_11,Traceability,1
+Query 6,Baseline,Eval_11,Semantic Consistency,5
+Query 6,Baseline,Eval_12,Relevance,3
+Query 6,Baseline,Eval_12,Hallucination Risk,5
+Query 6,Baseline,Eval_12,Traceability,2
+Query 6,Baseline,Eval_12,Semantic Consistency,5
+Query 6,Baseline,Eval_13,Relevance,3
+Query 6,Baseline,Eval_13,Hallucination Risk,5
+Query 6,Baseline,Eval_13,Traceability,1
+Query 6,Baseline,Eval_13,Semantic Consistency,5
+Query 6,Baseline,Eval_14,Relevance,3
+Query 6,Baseline,Eval_14,Hallucination Risk,4
+Query 6,Baseline,Eval_14,Traceability,1
+Query 6,Baseline,Eval_14,Semantic Consistency,5
+Query 6,Baseline,Eval_15,Relevance,3
+Query 6,Baseline,Eval_15,Hallucination Risk,4
+Query 6,Baseline,Eval_15,Traceability,2
+Query 6,Baseline,Eval_15,Semantic Consistency,5
+Query 6,Baseline,Eval_16,Relevance,4
+Query 6,Baseline,Eval_16,Hallucination Risk,4
+Query 6,Baseline,Eval_16,Traceability,2
+Query 6,Baseline,Eval_16,Semantic Consistency,5
+Query 6,Baseline,Eval_17,Relevance,4
+Query 6,Baseline,Eval_17,Hallucination Risk,4
+Query 6,Baseline,Eval_17,Traceability,1
+Query 6,Baseline,Eval_17,Semantic Consistency,5
+Query 6,Baseline,Eval_18,Relevance,4
+Query 6,Baseline,Eval_18,Hallucination Risk,5
+Query 6,Baseline,Eval_18,Traceability,2
+Query 6,Baseline,Eval_18,Semantic Consistency,5
+Query 6,Baseline,Eval_19,Relevance,3
+Query 6,Baseline,Eval_19,Hallucination Risk,5
+Query 6,Baseline,Eval_19,Traceability,2
+Query 6,Baseline,Eval_19,Semantic Consistency,5
+Query 6,Baseline,Eval_20,Relevance,4
+Query 6,Baseline,Eval_20,Hallucination Risk,5
+Query 6,Baseline,Eval_20,Traceability,2
+Query 6,Baseline,Eval_20,Semantic Consistency,5
